@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.production
+*.secret
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Data (sensitive)
+data/analytics_history.json
+data/sponsor_pipeline.json
+data/*_report_*.md
+data/pitch_*.txt
+
+# Logs
+*.log
+
+# Claude Code
+.claude/memory/
+.claude/.session_*
+
+# Temporary files
+*.tmp
+*.bak
+*~

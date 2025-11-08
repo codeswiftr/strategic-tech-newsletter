@@ -1,0 +1,24 @@
+{
+  "hooks": {
+    "onSessionStart": [
+      {
+        "name": "Newsletter Context Refresh",
+        "command": "echo '📰 Strategic Tech Newsletter Session Started'",
+        "description": "Initialize newsletter production session"
+      }
+    ]
+  },
+  "workflowAutomation": {
+    "qualityGates": {
+      "beforePublish": ["fact_check", "source_validation", "readability_check"],
+      "beforeSocialPost": ["brand_voice_check", "platform_optimization"]
+    }
+  },
+  "reminders": {
+    "weeklyTasks": [
+      "Run analytics_report.py for subscriber metrics",
+      "Update expert_database.json with new sources",
+      "Review topic_trends.csv for emerging themes"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+date,topic,source_platform,engagement_score,url
+2025-01-20,AI Regulation in the EU: What Tech Leaders Need to Know,Hacker News,342,https://news.ycombinator.com/item?id=12345678
+2025-01-20,The Rise of Rust in Production Systems,Hacker News,287,https://news.ycombinator.com/item?id=12345679
+2025-01-19,Why Platform Engineering is Replacing DevOps,Twitter,156,https://twitter.com/example/status/1234567890
+2025-01-19,OpenAI's Latest GPT Model: Deep Technical Analysis,Hacker News,412,https://news.ycombinator.com/item?id=12345680
+2025-01-18,The Death of the Monolith: Microservices at Scale,Tech Blog,89,https://example-blog.com/microservices-scale
+2025-01-18,WebAssembly in 2025: Beyond the Browser,Hacker News,203,https://news.ycombinator.com/item?id=12345681
+2025-01-17,Kubernetes Cost Optimization: A Practical Guide,LinkedIn,134,https://linkedin.com/posts/example-12345
+2025-01-17,The Future of Remote Work: What Changed in 5 Years,Twitter,245,https://twitter.com/example/status/1234567891
+2025-01-16,AI Coding Assistants Hit 40% Adoption Among Developers,Hacker News,389,https://news.ycombinator.com/item?id=12345682
+2025-01-16,Zero Trust Architecture: Implementation Lessons,Tech Blog,112,https://example-security.com/zero-trust
+2025-01-15,The State of Developer Experience in 2025,GitHub,267,https://github.blog/example-post
+2025-01-15,Why Edge Computing is Finally Taking Off,Hacker News,198,https://news.ycombinator.com/item?id=12345683
+2025-01-14,Observability vs Monitoring: Clearing Up the Confusion,Twitter,145,https://twitter.com/example/status/1234567892
+2025-01-14,Postgres at Massive Scale: Lessons from Production,Hacker News,356,https://news.ycombinator.com/item?id=12345684
+2025-01-13,The Developer Tooling Renaissance of 2025,Tech Blog,223,https://example-dev.com/tooling-renaissance
+2025-01-13,How AI is Changing Code Review Practices,GitHub,189,https://github.blog/ai-code-review
+2025-01-12,Infrastructure as Code: Terraform vs Pulumi in 2025,Hacker News,267,https://news.ycombinator.com/item?id=12345685
+2025-01-12,The Economics of SaaS: Unit Economics That Actually Work,LinkedIn,178,https://linkedin.com/posts/example-12346
+2025-01-11,GraphQL vs REST: The Debate Continues,Twitter,134,https://twitter.com/example/status/1234567893
+2025-01-11,Real-time Data Pipelines at Scale: Best Practices,Hacker News,298,https://news.ycombinator.com/item?id=12345686

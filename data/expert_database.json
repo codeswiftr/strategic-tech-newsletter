@@ -1,0 +1,68 @@
+{
+  "experts": [
+    {
+      "name": "Dr. Sarah Chen",
+      "expertise": ["AI/ML", "Neural Networks", "LLMs"],
+      "twitter_handle": "@sarahchen_ai",
+      "email": "sarah.chen@example.edu",
+      "affiliation": "Stanford AI Lab",
+      "last_contacted": "2025-01-05",
+      "topics": ["GPT models", "Transformer architecture", "AI safety"],
+      "credibility_score": 95,
+      "notes": "Leading researcher in transformer models, frequent conference speaker"
+    },
+    {
+      "name": "Marcus Rodriguez",
+      "expertise": ["Cloud Infrastructure", "DevOps", "Kubernetes"],
+      "twitter_handle": "@mrodriguez_dev",
+      "email": "marcus@devops-pro.com",
+      "affiliation": "Google Cloud",
+      "last_contacted": "2024-12-20",
+      "topics": ["Kubernetes", "Microservices", "Cloud native"],
+      "credibility_score": 88,
+      "notes": "Author of 'Cloud Native Patterns', 15+ years infrastructure experience"
+    },
+    {
+      "name": "Emily Thompson",
+      "expertise": ["Product Management", "SaaS", "Growth"],
+      "twitter_handle": "@emilyt_pm",
+      "email": "emily@saas-insights.com",
+      "affiliation": "Former VP Product at Stripe",
+      "last_contacted": "2025-01-15",
+      "topics": ["Product-led growth", "SaaS metrics", "User retention"],
+      "credibility_score": 92,
+      "notes": "Built products used by 100M+ users, popular PM newsletter author"
+    },
+    {
+      "name": "Dr. James Liu",
+      "expertise": ["Cybersecurity", "Cryptography", "Zero Trust"],
+      "twitter_handle": "@jamesliu_sec",
+      "email": "james.liu@security-research.org",
+      "affiliation": "MIT Security Lab",
+      "last_contacted": "2024-11-30",
+      "topics": ["Zero trust architecture", "Post-quantum cryptography", "Secure coding"],
+      "credibility_score": 97,
+      "notes": "Published 50+ papers on cryptography, advisor to NIST"
+    },
+    {
+      "name": "Priya Patel",
+      "expertise": ["Developer Experience", "API Design", "Documentation"],
+      "twitter_handle": "@priyap_dev",
+      "email": "priya@devrel-hub.com",
+      "affiliation": "Twilio Developer Relations",
+      "last_contacted": "2025-01-10",
+      "topics": ["API design", "Developer documentation", "SDK development"],
+      "credibility_score": 85,
+      "notes": "Built developer programs for 3 unicorn startups"
+    }
+  ],
+  "last_updated": "2025-01-20",
+  "total_experts": 5,
+  "expertise_categories": {
+    "AI/ML": 1,
+    "Cloud Infrastructure": 1,
+    "Product Management": 1,
+    "Cybersecurity": 1,
+    "Developer Experience": 1
+  }
+}
