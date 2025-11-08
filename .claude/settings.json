@@ -5,20 +5,72 @@
         "name": "Newsletter Context Refresh",
         "command": "echo '📰 Strategic Tech Newsletter Session Started'",
         "description": "Initialize newsletter production session"
+      },
+      {
+        "name": "Install Dependencies",
+        "command": "if command -v uv &> /dev/null; then uv pip install -e . --quiet 2>/dev/null || echo 'Dependencies already installed'; fi",
+        "description": "Auto-install Python dependencies using uv"
+      },
+      {
+        "name": "Load Environment Variables",
+        "command": "if [ -f .env.local ]; then export $(cat .env.local | grep -v '^#' | xargs); echo 'Environment variables loaded'; fi",
+        "description": "Load environment variables from .env.local"
       }
     ]
+  },
+  "skills": {
+    "available": [
+      {
+        "name": "research",
+        "path": ".claude/skills/research",
+        "description": "Automated research: trending topics, expert sourcing, credibility scoring"
+      },
+      {
+        "name": "fact_checker",
+        "path": ".claude/skills/fact_checker",
+        "description": "Validate claims, add citations, ensure 100% accuracy before publication"
+      },
+      {
+        "name": "social_repurpose",
+        "path": ".claude/skills/social_repurpose",
+        "description": "Transform essays into platform-optimized social content (LinkedIn, Twitter, Substack)"
+      }
+    ],
+    "autoload": ["research", "fact_checker", "social_repurpose"]
   },
   "workflowAutomation": {
     "qualityGates": {
       "beforePublish": ["fact_check", "source_validation", "readability_check"],
       "beforeSocialPost": ["brand_voice_check", "platform_optimization"]
+    },
+    "weeklyWorkflow": {
+      "monday": ["research_trending_topics", "select_topic", "deep_research"],
+      "tuesday_wednesday": ["expert_outreach", "draft_essay"],
+      "thursday": ["fact_check_strict", "add_citations"],
+      "friday": ["publish_essay", "generate_social_content", "schedule_posts"]
     }
   },
   "reminders": {
     "weeklyTasks": [
-      "Run analytics_report.py for subscriber metrics",
-      "Update expert_database.json with new sources",
-      "Review topic_trends.csv for emerging themes"
+      "Monday: Run analytics_report.py for subscriber metrics",
+      "Monday: Update expert_database.json with new sources",
+      "Monday: Review topic_trends.csv for emerging themes",
+      "Thursday: Fact-check draft in strict mode",
+      "Friday: Generate social content and schedule posts"
+    ],
+    "monthlyTasks": [
+      "First Monday: Run sponsor_outreach.py --generate-prospects",
+      "Mid-month: Review A/B test results from social posts",
+      "End of month: Analyze analytics trends and adjust strategy"
     ]
+  },
+  "performance": {
+    "targets": {
+      "research_time": "8 hours → 30 minutes (60-80% reduction)",
+      "fact_check_time": "4-6 hours → 1.5 hours (70% reduction)",
+      "social_content_time": "2-3 hours → 30 minutes (80% reduction)",
+      "total_time_saved_per_week": "~15 hours",
+      "total_time_saved_per_year": "~520 hours"
+    }
   }
 }
