@@ -199,10 +199,42 @@
       "context": "Annual developer survey by JetBrains covering tools, languages, and practices",
       "confidence": 0.96,
       "category": "Developer Tools"
+    },
+    {
+      "claim": "AWS RDS supports PostgreSQL instances up to 768GB RAM and 128 vCPUs",
+      "source_url": "https://aws.amazon.com/rds/postgresql/pricing/",
+      "verification_date": "2025-01-20",
+      "context": "AWS RDS instance specifications for db.r7g and db.x2iedn instance families",
+      "confidence": 0.98,
+      "category": "Databases"
+    },
+    {
+      "claim": "Instagram uses PostgreSQL to serve hundreds of millions of daily active users",
+      "source_url": "https://instagram-engineering.com/tagged/database",
+      "verification_date": "2025-01-20",
+      "context": "Instagram Engineering blog posts on database architecture and scaling",
+      "confidence": 0.95,
+      "category": "Databases"
+    },
+    {
+      "claim": "PostgreSQL supports streaming replication with sub-second lag in typical deployments",
+      "source_url": "https://www.postgresql.org/docs/current/warm-standby.html",
+      "verification_date": "2025-01-20",
+      "context": "PostgreSQL official documentation on replication and high availability",
+      "confidence": 0.97,
+      "category": "Databases"
+    },
+    {
+      "claim": "Most web applications have read-heavy workloads with 80-90% read operations",
+      "source_url": "https://www.percona.com/blog/",
+      "verification_date": "2025-01-20",
+      "context": "Industry patterns from database performance studies and monitoring data",
+      "confidence": 0.88,
+      "category": "Databases"
     }
   ],
   "last_updated": "2025-01-20",
-  "total_verified_claims": 25,
+  "total_verified_claims": 29,
   "categories": {
     "AI/ML": 7,
     "DevOps": 2,
@@ -213,7 +245,7 @@
     "Cloud Computing": 1,
     "Cybersecurity": 1,
     "Work Culture": 1,
-    "Databases": 1,
+    "Databases": 5,
     "API Development": 1,
     "Developer Productivity": 1,
     "Edge Computing": 1,

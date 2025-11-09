@@ -1,0 +1,7 @@
+🚀 New Essay: Postgres at Massive Scale: The Production Lessons Nobody Teaches You
+
+Your Postgres database just crossed 2TB. Query latencies are creeping up. Connection counts are approaching limits. Your VP Engineering is in your office asking the question every infrastructure lead ...
+
+Read the full essay: [INSERT NEWSLETTER LINK]
+
+Subscribe for weekly strategic tech insights 👉 [INSERT SUBSCRIBE LINK]

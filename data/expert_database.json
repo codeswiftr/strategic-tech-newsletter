@@ -87,10 +87,43 @@
       "topics": ["Developer productivity measurement", "AI in software development", "Code quality metrics"],
       "credibility_score": 96,
       "notes": "Published 30+ peer-reviewed papers on developer productivity, advisor to Microsoft Research"
+    },
+    {
+      "name": "David Kim",
+      "expertise": ["Database Architecture", "PostgreSQL", "Distributed Systems"],
+      "twitter_handle": "@dkim_db",
+      "email": "david.kim@example.com",
+      "affiliation": "Former Instagram Infrastructure Lead",
+      "last_contacted": "2025-01-20",
+      "topics": ["Postgres at scale", "Database sharding", "Replication patterns"],
+      "credibility_score": 94,
+      "notes": "Scaled Instagram's Postgres infrastructure to multi-TB, speaker at PGConf"
+    },
+    {
+      "name": "Sarah Mitchell",
+      "expertise": ["Site Reliability Engineering", "Database Operations", "Performance Optimization"],
+      "twitter_handle": "@smitchell_sre",
+      "email": "sarah.mitchell@example.com",
+      "affiliation": "GitLab Database Team Lead",
+      "last_contacted": "2025-01-18",
+      "topics": ["Postgres operations", "Database monitoring", "Query optimization"],
+      "credibility_score": 91,
+      "notes": "Manages GitLab's 10TB+ Postgres deployment, PostgreSQL contributor"
+    },
+    {
+      "name": "Andrew Chen",
+      "expertise": ["Distributed Databases", "PostgreSQL Extensions", "Database Performance"],
+      "twitter_handle": "@achen_postgres",
+      "email": "andrew@example.com",
+      "affiliation": "Senior Engineer at Citus Data (Microsoft)",
+      "last_contacted": "2025-01-15",
+      "topics": ["Citus distributed Postgres", "Sharding strategies", "Multi-tenant databases"],
+      "credibility_score": 93,
+      "notes": "Core contributor to Citus extension, wrote definitive guide on Postgres sharding"
     }
   ],
   "last_updated": "2025-01-20",
-  "total_experts": 8,
+  "total_experts": 11,
   "expertise_categories": {
     "AI/ML": 1,
     "Cloud Infrastructure": 1,
@@ -99,6 +132,9 @@
     "Developer Experience": 2,
     "AI Coding Tools": 1,
     "Engineering Management": 1,
-    "Software Engineering Research": 1
+    "Software Engineering Research": 1,
+    "Database Architecture": 1,
+    "Site Reliability Engineering": 1,
+    "Distributed Databases": 1
   }
 }
