@@ -54,15 +54,51 @@
       "topics": ["API design", "Developer documentation", "SDK development"],
       "credibility_score": 85,
       "notes": "Built developer programs for 3 unicorn startups"
+    },
+    {
+      "name": "Alex Chen",
+      "expertise": ["AI Coding Tools", "Developer Productivity", "ML for Code"],
+      "twitter_handle": "@alexchen_dev",
+      "email": "alex.chen@example.com",
+      "affiliation": "Former GitHub Copilot Team Lead",
+      "last_contacted": "2025-01-20",
+      "topics": ["AI pair programming", "Code completion models", "Developer tooling"],
+      "credibility_score": 93,
+      "notes": "Led GitHub Copilot development 2021-2024, published research on AI-assisted coding"
+    },
+    {
+      "name": "Rachel Foster",
+      "expertise": ["Engineering Management", "Team Productivity", "Developer Experience"],
+      "twitter_handle": "@rachelf_eng",
+      "email": "rachel@engineering-insights.com",
+      "affiliation": "VP Engineering at Shopify",
+      "last_contacted": "2025-01-18",
+      "topics": ["Engineering team scaling", "AI adoption in engineering", "Developer metrics"],
+      "credibility_score": 90,
+      "notes": "Managed 200+ engineer org, pioneered AI coding assistant rollout at Shopify"
+    },
+    {
+      "name": "Dr. Michael Zhang",
+      "expertise": ["Software Engineering Research", "Developer Productivity", "Empirical Studies"],
+      "twitter_handle": "@mzhang_research",
+      "email": "m.zhang@research-university.edu",
+      "affiliation": "Carnegie Mellon University",
+      "last_contacted": "2025-01-12",
+      "topics": ["Developer productivity measurement", "AI in software development", "Code quality metrics"],
+      "credibility_score": 96,
+      "notes": "Published 30+ peer-reviewed papers on developer productivity, advisor to Microsoft Research"
     }
   ],
   "last_updated": "2025-01-20",
-  "total_experts": 5,
+  "total_experts": 8,
   "expertise_categories": {
     "AI/ML": 1,
     "Cloud Infrastructure": 1,
     "Product Management": 1,
     "Cybersecurity": 1,
-    "Developer Experience": 1
+    "Developer Experience": 2,
+    "AI Coding Tools": 1,
+    "Engineering Management": 1,
+    "Software Engineering Research": 1
   }
 }

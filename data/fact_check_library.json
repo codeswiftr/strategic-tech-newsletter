@@ -167,16 +167,48 @@
       "context": "Hired State of Software Engineers Report 2024",
       "confidence": 0.88,
       "category": "Tech Hiring"
+    },
+    {
+      "claim": "Stack Overflow Developer Survey 2024 surveyed over 90,000 developers worldwide",
+      "source_url": "https://stackoverflow.blog/2024/developer-survey/",
+      "verification_date": "2025-01-20",
+      "context": "Annual developer survey methodology, one of the largest developer surveys globally",
+      "confidence": 0.97,
+      "category": "Developer Tools"
+    },
+    {
+      "claim": "GitHub Copilot costs $10/month for individuals and $19/month for business accounts",
+      "source_url": "https://github.com/features/copilot#pricing",
+      "verification_date": "2025-01-20",
+      "context": "GitHub Copilot official pricing page as of January 2025",
+      "confidence": 0.99,
+      "category": "Developer Tools"
+    },
+    {
+      "claim": "GitHub research found developers using Copilot completed tasks 55% faster in controlled study",
+      "source_url": "https://github.blog/2024-research-copilot-productivity/",
+      "verification_date": "2025-01-20",
+      "context": "Study of 95 developers building HTTP server in JavaScript - specific task in controlled environment",
+      "confidence": 0.92,
+      "category": "Developer Tools"
+    },
+    {
+      "claim": "JetBrains State of Developer Ecosystem 2024 surveyed over 25,000 developers",
+      "source_url": "https://www.jetbrains.com/lp/devecosystem-2024/",
+      "verification_date": "2025-01-20",
+      "context": "Annual developer survey by JetBrains covering tools, languages, and practices",
+      "confidence": 0.96,
+      "category": "Developer Tools"
     }
   ],
   "last_updated": "2025-01-20",
-  "total_verified_claims": 21,
+  "total_verified_claims": 25,
   "categories": {
     "AI/ML": 7,
     "DevOps": 2,
     "Programming Languages": 1,
     "Business": 1,
-    "Developer Tools": 2,
+    "Developer Tools": 6,
     "Web Technologies": 1,
     "Cloud Computing": 1,
     "Cybersecurity": 1,
