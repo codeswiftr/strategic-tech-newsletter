@@ -1,0 +1,45 @@
+Tweet 1/8:
+Postgres at Massive Scale: The Production Lessons Nobody Teaches You
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+Your Postgres database just crossed 2TB. Query latencies are creeping up. Connection counts are approaching limits. Your VP Engineering is in your office asking the question every infrastructure lead dreads: "Do we need to migrate to a distributed database?"...
+
+==================================================
+
+Tweet 3/8:
+1/ AWS RDS db.r7g.16xlarge (512GB RAM, 64 vCPUs): ~$6,500/month
+
+==================================================
+
+Tweet 4/8:
+2/ Distributed database migration (engineering time, new infrastructure, operational complexity): $500,000+ and 6-12 months
+
+==================================================
+
+Tweet 5/8:
+3/ Years of runway before vertical scaling caps out: 2-4 years for typical growth trajectories
+
+==================================================
+
+Tweet 6/8:
+4/ Your largest available instance can't fit your working set in memory
+
+==================================================
+
+Tweet 7/8:
+5/ Single-threaded write bottlenecks (Postgres has limits on write parallelism)
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

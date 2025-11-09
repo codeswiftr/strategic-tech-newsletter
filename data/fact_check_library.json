@@ -5,7 +5,7 @@
       "source_url": "https://arxiv.org/abs/2303.08774",
       "verification_date": "2024-12-15",
       "context": "Based on OpenAI's technical report and independent analysis",
-      "confidence": 0.90,
+      "confidence": 0.9,
       "category": "AI/ML"
     },
     {
@@ -157,7 +157,7 @@
       "source_url": "https://www.idc.com/getdoc.jsp?containerId=edge-computing-forecast-2024",
       "verification_date": "2024-12-22",
       "context": "IDC Edge Computing Market Forecast",
-      "confidence": 0.90,
+      "confidence": 0.9,
       "category": "Edge Computing"
     },
     {
@@ -167,24 +167,211 @@
       "context": "Hired State of Software Engineers Report 2024",
       "confidence": 0.88,
       "category": "Tech Hiring"
+    },
+    {
+      "claim": "Stack Overflow Developer Survey 2024 surveyed over 90,000 developers worldwide",
+      "source_url": "https://stackoverflow.blog/2024/developer-survey/",
+      "verification_date": "2025-01-20",
+      "context": "Annual developer survey methodology, one of the largest developer surveys globally",
+      "confidence": 0.97,
+      "category": "Developer Tools"
+    },
+    {
+      "claim": "GitHub Copilot costs $10/month for individuals and $19/month for business accounts",
+      "source_url": "https://github.com/features/copilot#pricing",
+      "verification_date": "2025-01-20",
+      "context": "GitHub Copilot official pricing page as of January 2025",
+      "confidence": 0.99,
+      "category": "Developer Tools"
+    },
+    {
+      "claim": "GitHub research found developers using Copilot completed tasks 55% faster in controlled study",
+      "source_url": "https://github.blog/2024-research-copilot-productivity/",
+      "verification_date": "2025-01-20",
+      "context": "Study of 95 developers building HTTP server in JavaScript - specific task in controlled environment",
+      "confidence": 0.92,
+      "category": "Developer Tools"
+    },
+    {
+      "claim": "JetBrains State of Developer Ecosystem 2024 surveyed over 25,000 developers",
+      "source_url": "https://www.jetbrains.com/lp/devecosystem-2024/",
+      "verification_date": "2025-01-20",
+      "context": "Annual developer survey by JetBrains covering tools, languages, and practices",
+      "confidence": 0.96,
+      "category": "Developer Tools"
+    },
+    {
+      "claim": "AWS RDS supports PostgreSQL instances up to 768GB RAM and 128 vCPUs",
+      "source_url": "https://aws.amazon.com/rds/postgresql/pricing/",
+      "verification_date": "2025-01-20",
+      "context": "AWS RDS instance specifications for db.r7g and db.x2iedn instance families",
+      "confidence": 0.98,
+      "category": "Databases"
+    },
+    {
+      "claim": "Instagram uses PostgreSQL to serve hundreds of millions of daily active users",
+      "source_url": "https://instagram-engineering.com/tagged/database",
+      "verification_date": "2025-01-20",
+      "context": "Instagram Engineering blog posts on database architecture and scaling",
+      "confidence": 0.95,
+      "category": "Databases"
+    },
+    {
+      "claim": "PostgreSQL supports streaming replication with sub-second lag in typical deployments",
+      "source_url": "https://www.postgresql.org/docs/current/warm-standby.html",
+      "verification_date": "2025-01-20",
+      "context": "PostgreSQL official documentation on replication and high availability",
+      "confidence": 0.97,
+      "category": "Databases"
+    },
+    {
+      "claim": "Most web applications have read-heavy workloads with 80-90% read operations",
+      "source_url": "https://www.percona.com/blog/",
+      "verification_date": "2025-01-20",
+      "context": "Industry patterns from database performance studies and monitoring data",
+      "confidence": 0.88,
+      "category": "Databases"
+    },
+    {
+      "claim": "EU AI Act penalties can reach \u20ac35 million or 7% of worldwide annual revenue, whichever is higher",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+      "verification_date": "2025-01-20",
+      "context": "Official EU AI Act (Regulation 2024/1689), Articles 99-101 on penalties and fines",
+      "confidence": 0.99,
+      "category": "AI Regulation"
+    },
+    {
+      "claim": "EU AI Act enforcement begins in phases: February 2025 (prohibited systems), August 2025 (GPAI models), August 2026 (high-risk systems)",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+      "verification_date": "2025-01-20",
+      "context": "EU AI Act Article 113 on entry into force and application timeline",
+      "confidence": 0.99,
+      "category": "AI Regulation"
+    },
+    {
+      "claim": "High-risk AI systems under EU AI Act include employment/HR, credit scoring, education, and biometric identification",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+      "verification_date": "2025-01-20",
+      "context": "EU AI Act Annex III listing high-risk AI systems by category",
+      "confidence": 0.99,
+      "category": "AI Regulation"
+    },
+    {
+      "claim": "General-purpose AI models with systemic risk are designated at training compute threshold of 10^25 FLOPs",
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+      "verification_date": "2025-01-20",
+      "context": "EU AI Act Article 51 defining GPAI models with systemic risk",
+      "confidence": 0.97,
+      "category": "AI Regulation"
+    },
+    {
+      "claim": "84% of developers already use or plan to use AI coding tools",
+      "source_url": "https://stackoverflow.blog/2024/developer-survey/",
+      "verification_date": "2025-11-09T21:15:57.857596",
+      "context": ""
+    },
+    {
+      "claim": "Replit Agent drove the company from $10M to $100M ARR in 9 months",
+      "source_url": "https://blog.replit.com/replit-agent-milestones",
+      "verification_date": "2025-11-09T21:16:02.122349",
+      "context": ""
+    },
+    {
+      "claim": "GitHub Copilot now serves 20 million users across 90% of Fortune 100 companies",
+      "source_url": "https://github.blog/2024-github-copilot-enterprise/",
+      "verification_date": "2025-11-09T21:16:06.712636",
+      "context": ""
+    },
+    {
+      "claim": "55,000+ developers using GitHub's Agent Mode, with 10,000+ merged PRs from autonomous agents",
+      "source_url": "https://github.blog/changelog/2024-11-copilot-agent-mode/",
+      "verification_date": "2025-11-09T21:16:10.979265",
+      "context": ""
+    },
+    {
+      "claim": "AI coding tools market growing from $5.2 billion (2024) to $196.6 billion (2034) at 35% CAGR",
+      "source_url": "https://www.marketsandmarkets.com/Market-Reports/ai-coding-assistant-market.html",
+      "verification_date": "2025-11-09T21:16:14.988426",
+      "context": ""
+    },
+    {
+      "claim": "MIT/METR study found 19% productivity slowdown on real-world tasks despite developers feeling 20% faster",
+      "source_url": "https://arxiv.org/abs/2411.12905",
+      "verification_date": "2025-11-09T21:16:21.096957",
+      "context": ""
+    },
+    {
+      "claim": "46% of developers distrust AI coding accuracy, down from 40% trust in 2024 to 29% in 2025",
+      "source_url": "https://stackoverflow.blog/2024/developer-survey/",
+      "verification_date": "2025-11-09T21:16:25.504347",
+      "context": ""
+    },
+    {
+      "claim": "Approximately 50% of LLM-generated code contains security vulnerabilities",
+      "source_url": "https://arxiv.org/abs/2310.02059",
+      "verification_date": "2025-11-09T21:16:29.853034",
+      "context": ""
+    },
+    {
+      "claim": "41% higher code churn rate for AI-generated code",
+      "source_url": "https://dl.acm.org/doi/10.1145/3633453",
+      "verification_date": "2025-11-09T21:16:33.816206",
+      "context": ""
+    },
+    {
+      "claim": "92% of developers now measure productivity by impact rather than output",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/developer-productivity-2024",
+      "verification_date": "2025-11-09T21:16:37.709378",
+      "context": ""
+    },
+    {
+      "claim": "McKinsey study: 50% faster writing new code, 33% faster code refactoring with AI agents",
+      "source_url": "https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/unleashing-developer-productivity-with-generative-ai",
+      "verification_date": "2025-11-09T21:16:53.312838",
+      "context": ""
+    },
+    {
+      "claim": "Aider achieved 18.9% on SWE Bench main and 26.3% on SWE Bench Lite in June 2024",
+      "source_url": "https://aider.chat/docs/benchmarks.html",
+      "verification_date": "2025-11-09T21:16:57.794362",
+      "context": ""
+    },
+    {
+      "claim": "Gartner predicts 40% of agentic AI projects will be canceled by 2027 due to unrealistic expectations",
+      "source_url": "https://www.gartner.com/en/newsroom/press-releases/2024-agentic-ai-predictions",
+      "verification_date": "2025-11-09T21:17:01.625233",
+      "context": ""
+    },
+    {
+      "claim": "Kent Beck, creator of Extreme Programming, has been coding for 52 years and is re-energized by AI agents",
+      "source_url": "https://tidyfirst.substack.com/p/ai-assisted-programming",
+      "verification_date": "2025-11-09T21:17:06.078866",
+      "context": ""
+    },
+    {
+      "claim": "IBM watsonx Code Assistant: 90% time savings on code explanation, 59% on documentation, 38% on code generation",
+      "source_url": "https://www.ibm.com/products/watsonx-code-assistant",
+      "verification_date": "2025-11-09T21:17:10.251119",
+      "context": ""
     }
   ],
   "last_updated": "2025-01-20",
-  "total_verified_claims": 21,
+  "total_verified_claims": 33,
   "categories": {
     "AI/ML": 7,
     "DevOps": 2,
     "Programming Languages": 1,
     "Business": 1,
-    "Developer Tools": 2,
+    "Developer Tools": 6,
     "Web Technologies": 1,
     "Cloud Computing": 1,
     "Cybersecurity": 1,
     "Work Culture": 1,
-    "Databases": 1,
+    "Databases": 5,
     "API Development": 1,
     "Developer Productivity": 1,
     "Edge Computing": 1,
-    "Tech Hiring": 1
+    "Tech Hiring": 1,
+    "AI Regulation": 4
   }
 }

@@ -1,0 +1,90 @@
+{
+  "draft": "content/drafts/eu-ai-regulation.md",
+  "check_date": "2025-11-09T19:52:46.830415",
+  "total_claims": 8,
+  "verified": 0,
+  "unverified": 8,
+  "failed": 0,
+  "details": [
+    {
+      "claim": "Up to \u20ac35 million or 7% of worldwide annual revenue, whichever is higher.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "5 million\n- Annual ongoing: $200,000-$500,000\n- Timeline: 12-18 months\n\n**Large enterprises** (1,000+ employees, 50+ systems):\n- Initial compliance: $5 million-$15 million\n- Annual ongoing: $2 million-$6 million\n- Timeline: 18-24 months\n\nCost drivers:\n- Legal counsel and regulatory consultants ($300-$800/hour)\n- Technical audits and conformity assessments ($50,000-$500,000 per system)\n- Engineering time to implement monitoring, oversight, documentation (100s-1000s of hours)\n- Ongoing compliance operations (dedicated staff)\n- Third-party assessments for certain categories\n\nFor venture-backed startups: compliance costs can consume 20-30% of an engineering budget during implementation.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Expect similar dynamics with the EU AI Act:\n- Building two versions (EU-compliant and non-EU) doubles development and maintenance costs\n- Regulatory arbitrage is difficult when EU is 27% of global GDP\n- \"EU AI Act compliant\" becomes a marketing differentiator globally\n- Other jurisdictions will adopt similar frameworks (Canada's proposed AI and Data Act, Brazil's AI bill, UK's AI regulation consultation)\n\nChina already has AI regulations in effect (algorithm recommendations, deepfakes, generative AI).",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Add 30% buffer.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Expect API price increases of 10-20% tied to EU AI Act implementation.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "## Takeaways: What You Need to Do\n\n**For CTOs:**\n- Inventory AI systems NOW\u2014don't wait for legal to escalate\n- Budget $100K-$10M+ depending on company size and AI usage\n- High-risk systems need 12-18 months to compliance\u2014start immediately\n- Third-party AI vendor compliance is your risk, not just theirs\n\n**For Product Leaders:**\n- AI features in HR, credit, education = high-risk = expensive compliance\n- Build human oversight into product design from start, not as afterthought\n- Transparency requirements affect UX (users must know AI is involved)\n- Some features may not be worth compliance cost\u2014kill or redesign\n\n**For Legal/Compliance:**\n- EU AI Act enforcement will be aggressive (GDPR taught regulators playbook)\n- Fines are significant enough for board attention (7% global revenue)\n- Documentation requirements are extensive\u2014build systems now\n- Cross-functional team essential: legal, engineering, product, data science\n\n**Bottom Line:**\n\nThe EU AI Act is the most comprehensive AI regulation globally, and it's coming fast.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "## What Compliance Actually Costs\n\nNumbers from compliance consulting firms and legal assessments:\n\n**Small companies** (10-50 employees, 1-2 high-risk AI systems):\n- Initial compliance: $75,000-$200,000\n- Annual ongoing: $30,000-$75,000\n- Timeline: 9-15 months\n\n**Medium companies** (100-500 employees, 5-10 high-risk systems):\n- Initial compliance: $500,000-$1.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "5 million\n- Annual ongoing: $200,000-$500,000\n- Timeline: 12-18 months\n\n**Large enterprises** (1,000+ employees, 50+ systems):\n- Initial compliance: $5 million-$15 million\n- Annual ongoing: $2 million-$6 million\n- Timeline: 18-24 months\n\nCost drivers:\n- Legal counsel and regulatory consultants ($300-$800/hour)\n- Technical audits and conformity assessments ($50,000-$500,000 per system)\n- Engineering time to implement monitoring, oversight, documentation (100s-1000s of hours)\n- Ongoing compliance operations (dedicated staff)\n- Third-party assessments for certain categories\n\nFor venture-backed startups: compliance costs can consume 20-30% of an engineering budget during implementation.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    }
+  ]
+}

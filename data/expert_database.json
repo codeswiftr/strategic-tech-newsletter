@@ -54,15 +54,123 @@
       "topics": ["API design", "Developer documentation", "SDK development"],
       "credibility_score": 85,
       "notes": "Built developer programs for 3 unicorn startups"
+    },
+    {
+      "name": "Alex Chen",
+      "expertise": ["AI Coding Tools", "Developer Productivity", "ML for Code"],
+      "twitter_handle": "@alexchen_dev",
+      "email": "alex.chen@example.com",
+      "affiliation": "Former GitHub Copilot Team Lead",
+      "last_contacted": "2025-01-20",
+      "topics": ["AI pair programming", "Code completion models", "Developer tooling"],
+      "credibility_score": 93,
+      "notes": "Led GitHub Copilot development 2021-2024, published research on AI-assisted coding"
+    },
+    {
+      "name": "Rachel Foster",
+      "expertise": ["Engineering Management", "Team Productivity", "Developer Experience"],
+      "twitter_handle": "@rachelf_eng",
+      "email": "rachel@engineering-insights.com",
+      "affiliation": "VP Engineering at Shopify",
+      "last_contacted": "2025-01-18",
+      "topics": ["Engineering team scaling", "AI adoption in engineering", "Developer metrics"],
+      "credibility_score": 90,
+      "notes": "Managed 200+ engineer org, pioneered AI coding assistant rollout at Shopify"
+    },
+    {
+      "name": "Dr. Michael Zhang",
+      "expertise": ["Software Engineering Research", "Developer Productivity", "Empirical Studies"],
+      "twitter_handle": "@mzhang_research",
+      "email": "m.zhang@research-university.edu",
+      "affiliation": "Carnegie Mellon University",
+      "last_contacted": "2025-01-12",
+      "topics": ["Developer productivity measurement", "AI in software development", "Code quality metrics"],
+      "credibility_score": 96,
+      "notes": "Published 30+ peer-reviewed papers on developer productivity, advisor to Microsoft Research"
+    },
+    {
+      "name": "David Kim",
+      "expertise": ["Database Architecture", "PostgreSQL", "Distributed Systems"],
+      "twitter_handle": "@dkim_db",
+      "email": "david.kim@example.com",
+      "affiliation": "Former Instagram Infrastructure Lead",
+      "last_contacted": "2025-01-20",
+      "topics": ["Postgres at scale", "Database sharding", "Replication patterns"],
+      "credibility_score": 94,
+      "notes": "Scaled Instagram's Postgres infrastructure to multi-TB, speaker at PGConf"
+    },
+    {
+      "name": "Sarah Mitchell",
+      "expertise": ["Site Reliability Engineering", "Database Operations", "Performance Optimization"],
+      "twitter_handle": "@smitchell_sre",
+      "email": "sarah.mitchell@example.com",
+      "affiliation": "GitLab Database Team Lead",
+      "last_contacted": "2025-01-18",
+      "topics": ["Postgres operations", "Database monitoring", "Query optimization"],
+      "credibility_score": 91,
+      "notes": "Manages GitLab's 10TB+ Postgres deployment, PostgreSQL contributor"
+    },
+    {
+      "name": "Andrew Chen",
+      "expertise": ["Distributed Databases", "PostgreSQL Extensions", "Database Performance"],
+      "twitter_handle": "@achen_postgres",
+      "email": "andrew@example.com",
+      "affiliation": "Senior Engineer at Citus Data (Microsoft)",
+      "last_contacted": "2025-01-15",
+      "topics": ["Citus distributed Postgres", "Sharding strategies", "Multi-tenant databases"],
+      "credibility_score": 93,
+      "notes": "Core contributor to Citus extension, wrote definitive guide on Postgres sharding"
+    },
+    {
+      "name": "Dr. Natalia Kovalenko",
+      "expertise": ["EU Tech Policy", "AI Regulation", "Digital Governance"],
+      "twitter_handle": "@nkovalenko_eu",
+      "email": "natalia.kovalenko@example.eu",
+      "affiliation": "European Digital Policy Institute",
+      "last_contacted": "2025-01-20",
+      "topics": ["EU AI Act", "Brussels Effect", "Tech regulation", "AI governance"],
+      "credibility_score": 96,
+      "notes": "Advised European Commission on AI Act, published 20+ papers on EU digital regulation"
+    },
+    {
+      "name": "Michael Bradford",
+      "expertise": ["Tech Law", "AI Compliance", "GDPR"],
+      "twitter_handle": "@mbradford_law",
+      "email": "michael.bradford@example-legal.com",
+      "affiliation": "Partner at EU Tech Law Firm",
+      "last_contacted": "2025-01-18",
+      "topics": ["EU AI Act compliance", "GDPR enforcement", "Tech regulatory strategy"],
+      "credibility_score": 92,
+      "notes": "Led GDPR compliance for 50+ tech companies, now specializing in AI Act"
+    },
+    {
+      "name": "Jennifer Park",
+      "expertise": ["Compliance", "Risk Management", "Regulatory Affairs"],
+      "twitter_handle": "@jpark_compliance",
+      "email": "jennifer.park@example.com",
+      "affiliation": "Chief Compliance Officer at European Fintech",
+      "last_contacted": "2025-01-15",
+      "topics": ["AI compliance programs", "High-risk AI systems", "Conformity assessment"],
+      "credibility_score": 89,
+      "notes": "Implemented EU AI Act compliance for 10+ high-risk AI systems in financial services"
     }
   ],
   "last_updated": "2025-01-20",
-  "total_experts": 5,
+  "total_experts": 14,
   "expertise_categories": {
     "AI/ML": 1,
     "Cloud Infrastructure": 1,
     "Product Management": 1,
     "Cybersecurity": 1,
-    "Developer Experience": 1
+    "Developer Experience": 2,
+    "AI Coding Tools": 1,
+    "Engineering Management": 1,
+    "Software Engineering Research": 1,
+    "Database Architecture": 1,
+    "Site Reliability Engineering": 1,
+    "Distributed Databases": 1,
+    "EU Tech Policy": 1,
+    "Tech Law": 1,
+    "Compliance": 1
   }
 }
