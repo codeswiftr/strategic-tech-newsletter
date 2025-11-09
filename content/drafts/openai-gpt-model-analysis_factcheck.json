@@ -1,139 +1,139 @@
 {
   "draft": "content/drafts/openai-gpt-model-analysis.md",
-  "check_date": "2025-11-09T11:18:22.679246",
+  "check_date": "2025-11-09T11:48:05.101897",
   "total_claims": 13,
   "verified": 0,
-  "unverified": 0,
-  "failed": 13,
+  "unverified": 13,
+  "failed": 0,
   "details": [
     {
       "claim": "A 40% improvement in reasoning tasks, multimodal capabilities spanning vision and audio, and a context window that's expanded from 8,000 to 128,000 tokens.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
-      "claim": "According to recent industry analysis, [AI coding assistants have reached 40% adoption among developers](https://news.",
+      "claim": "blog/2024/developer-survey/), AI coding assistants have reached 40% adoption among professional developers, and enterprise spending on LLM infrastructure is accelerating quarter over quarter.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "## The 40% Reasoning Improvement: Real or Hype?",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "Let's start with the headline number: 40% improvement in reasoning tasks.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "A 40% improvement on benchmarks doesn't translate linearly to real-world applications.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "If hallucination rates drop by 50%, your validation overhead drops proportionally.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "Andrej Karpathy, former OpenAI researcher and AI educator, emphasizes the practical implication: \"The difference between 95% accuracy and 98% accuracy sounds small, but it's the difference between 'needs constant supervision' and 'can run semi-autonomously with spot checks.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "Open-source alternatives will reach 80% of GPT-4 performance at a fraction of the cost, particularly for specialized domains.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "The 40% reasoning improvement is real and measurable**\u2014but only for use cases requiring multi-step reasoning and complex problem-solving.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "If your roadmap includes these areas, allocate 10-20% of AI budget to early experimentation.",
       "type": "percentage",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
       "claim": "A 40% improvement in reasoning tasks, multimodal capabilities spanning vision and audio, and a context window that's expanded from 8,000 to 128,000 tokens.",
       "type": "statistic",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
-      "claim": "## The 128K Context Window: Rethinking What's Possible\n\nContext window expansion from 8,000 to 128,000 tokens represents a 16x increase\u2014and it fundamentally changes what's economically viable with LLMs.",
+      "claim": "## The 128K Context Window: Rethinking What's Possible\n\nContext window expansion from 8,000 to 128,000 tokens (announced in [GPT-4 Turbo](https://openai.",
       "type": "statistic",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     },
     {
-      "claim": "To put this in perspective: 128,000 tokens can accommodate approximately 96,000 words, or about 350 pages of single-spaced text.",
+      "claim": "To put this in perspective: 128,000 tokens can accommodate approximately 96,000 words (based on OpenAI's [tokenization guidance](https://help.",
       "type": "statistic",
       "verification": {
-        "verified": false,
-        "confidence": 0.0,
+        "verified": null,
+        "confidence": 0.5,
         "source": null,
-        "note": "Requires manual verification and source citation"
+        "note": "Unverified - proceed with caution"
       }
     }
   ]

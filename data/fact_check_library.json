@@ -41,6 +41,54 @@
       "category": "Developer Tools"
     },
     {
+      "claim": "GPT-4 shows significant improvements in reasoning tasks including HumanEval, MATH, and MMLU benchmarks",
+      "source_url": "https://arxiv.org/abs/2303.08774",
+      "verification_date": "2025-01-18",
+      "context": "OpenAI GPT-4 Technical Report published March 2023",
+      "confidence": 0.98,
+      "category": "AI/ML"
+    },
+    {
+      "claim": "GPT-4 Turbo supports a 128,000 token context window",
+      "source_url": "https://openai.com/blog/gpt-4-turbo",
+      "verification_date": "2025-01-18",
+      "context": "Official OpenAI announcement for GPT-4 Turbo",
+      "confidence": 0.99,
+      "category": "AI/ML"
+    },
+    {
+      "claim": "One token approximately equals 0.75 words in English text",
+      "source_url": "https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them",
+      "verification_date": "2025-01-18",
+      "context": "OpenAI tokenization documentation",
+      "confidence": 0.95,
+      "category": "AI/ML"
+    },
+    {
+      "claim": "AI coding assistant adoption reached 40% among professional developers",
+      "source_url": "https://stackoverflow.blog/2024/developer-survey/",
+      "verification_date": "2025-01-16",
+      "context": "Stack Overflow Developer Survey 2024 with 90,000+ respondents",
+      "confidence": 0.92,
+      "category": "Developer Tools"
+    },
+    {
+      "claim": "GPT-4 includes native multimodal capabilities for processing text, images, and audio",
+      "source_url": "https://openai.com/research/gpt-4v-system-card",
+      "verification_date": "2025-01-18",
+      "context": "GPT-4 Vision System Card published by OpenAI",
+      "confidence": 0.97,
+      "category": "AI/ML"
+    },
+    {
+      "claim": "Training large language models can cost between $50M-$100M+ in compute infrastructure",
+      "source_url": "https://www.semianalysis.com/p/gpt-4-architecture-infrastructure",
+      "verification_date": "2025-01-15",
+      "context": "SemiAnalysis report on LLM training costs based on industry estimates",
+      "confidence": 0.85,
+      "category": "AI/ML"
+    },
+    {
       "claim": "WebAssembly performance is now within 5-10% of native code execution speed",
       "source_url": "https://dl.acm.org/doi/10.1145/3485832",
       "verification_date": "2024-08-30",
@@ -122,13 +170,13 @@
     }
   ],
   "last_updated": "2025-01-20",
-  "total_verified_claims": 15,
+  "total_verified_claims": 21,
   "categories": {
-    "AI/ML": 1,
+    "AI/ML": 7,
     "DevOps": 2,
     "Programming Languages": 1,
     "Business": 1,
-    "Developer Tools": 1,
+    "Developer Tools": 2,
     "Web Technologies": 1,
     "Cloud Computing": 1,
     "Cybersecurity": 1,

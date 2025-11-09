@@ -1,0 +1,45 @@
+Tweet 1/8:
+OpenAI's Latest GPT Model: What CTOs Need to Know
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+Picture this: You're reviewing Q2 infrastructure budgets, and your engineering team wants to upgrade to the latest GPT model. The cost? Potentially millions in API fees plus engineering time to rebuild integrations. The promise? A 40% improvement in reasoning tasks, mul...
+
+==================================================
+
+Tweet 3/8:
+1/ **Document analysis**: Upload a PDF with complex tables, charts, and diagrams. The model can reason about the relationships between visual and textual information, something stitched-together approaches handled poorly.
+
+==================================================
+
+Tweet 4/8:
+2/ **UI understanding**: Provide a screenshot of an application interface. The model can identify UI elements, suggest improvements, or generate code that matches the visual design.
+
+==================================================
+
+Tweet 5/8:
+3/ **Audio transcription and analysis**: Process audio directly, with better context-awareness than traditional speech-to-text systems because the model understands semantic content, not just phonetics.
+
+==================================================
+
+Tweet 6/8:
+4/ **Analyze entire codebases**: Feed complete application code into a single prompt for architectural analysis, refactoring suggestions, or security review.
+
+==================================================
+
+Tweet 7/8:
+5/ **Process long-form documents**: Legal contracts, technical specifications, research papers—analyze them holistically rather than in fragmented chunks.
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+
