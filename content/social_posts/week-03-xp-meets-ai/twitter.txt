@@ -1,0 +1,45 @@
+Tweet 1/8:
+Extreme Programming for the Agentic Era: When Test-Driven Development Meets AI Agents
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+Kent Beck has been writing code for 52 years. He created Extreme Programming. He pioneered Test-Driven Development. He literally wrote the book on agile software development....
+
+==================================================
+
+Tweet 3/8:
+1/ **TDD provides automated verification** - Agents can validate their work instantly
+
+==================================================
+
+Tweet 4/8:
+2/ **Pair programming establishes collaborative workflow** - Natural model for human-agent interaction
+
+==================================================
+
+Tweet 5/8:
+3/ **Refactoring encourages fearless improvement** - Agents excel at systematic code transformation
+
+==================================================
+
+Tweet 6/8:
+4/ **Continuous integration enables rapid iteration** - Agents can deploy and test constantly
+
+==================================================
+
+Tweet 7/8:
+5/ **55,000+ developers** using it in production
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

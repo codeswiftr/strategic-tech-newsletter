@@ -1,0 +1,320 @@
+{
+  "draft": "content/drafts/week-01-agentic-coding-revolution.md",
+  "check_date": "2025-11-09T21:14:44.680832",
+  "total_claims": 31,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 31,
+  "details": [
+    {
+      "claim": "The numbers tell the story:\n\n- **84% of developers** already use or plan to use AI coding tools (up from 76% in 2024)\n- Market growing from **$5.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "6 billion** (2034) at 35% CAGR\n- **Replit Agent** drove the company from $10M to $100M ARR in just 9 months\n- **GitHub Copilot** now serves 20 million users across 90% of Fortune 100 companies\n- **55,000+ developers** using GitHub's Agent Mode, with 10,000+ merged PRs from autonomous agents\n\nThis isn't experimental technology anymore.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Impact**: Developers report 75% higher job satisfaction and claim 55% productivity improvement.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "MIT research found agents actually cause a 19% productivity *slowdown* on rigorous real-world tasks, even though developers *feel* 20% faster.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "8% faster task completion\n- 30% productivity gains\n- 90% improved job satisfaction\n\n**What rigorous studies found:**\n- MIT/METR study: **19% productivity slowdown** on real-world tasks\n- Developers *feel* 20% faster but measure 19% slower\n- **66%** spend more time fixing AI code than expected\n- **45%** report output is \"almost right but not quite\"\n\nSo what's actually true?",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Where agents genuinely excel:**\n- **Boilerplate and scaffolding**: 50% faster (CRUD endpoints, project setup)\n- **API exploration**: 40% faster (learning new libraries, SDK integration)\n- **Test generation**: 35% faster (unit test scaffolding)\n- **Code refactoring**: 33% faster (renaming, restructuring, modernization)\n\n**Where agents struggle:**\n- **Complex debugging**: 0-10% improvement (sometimes slower due to suggestion distraction)\n- **Architectural design**: Often counterproductive (agents lack strategic vision)\n- **Novel problem-solving**: Minimal gains (no training data for truly new problems)\n- **Code review**: **10-15% time increase** (AI-generated code requires different review patterns)\n\nIBM's watsonx Code Assistant study provides more specific numbers:\n- 90% projected time savings on **code explanation**\n- 59% reduction on **documentation tasks**\n- 38% reduction in **code generation and testing**\n- **71-75 days saved** per developer over 6 months\n\nThe pattern is clear: agents are exceptional at well-understood, pattern-heavy tasks.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "## The Trust Paradox\n\nHere's the fascinating contradiction at the heart of agentic coding:\n\n**84% adoption** but **46% distrust accuracy**.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Nearly half of developers don't trust AI accuracy, yet 84% use the tools anyway.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Trust is actually *declining*\u2014from 40% in 2024 to just 29% in 2025\u2014even as adoption accelerates.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "4%** cite technical debt as the biggest problem with AI-generated code\n- **41%** higher code churn rate for AI-generated code\n- **~50%** of LLM-generated code contains security vulnerabilities\n- **19.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "6%** average hallucination rate (wrong package names, non-existent APIs)\n\nStanford research found that combining RAG (Retrieval-Augmented Generation) + RLHF (Reinforcement Learning from Human Feedback) + guardrails achieved a **96% reduction in hallucinations**.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Gartner predicts **40% of agentic AI projects will be canceled by 2027** due to unrealistic expectations and poor implementation.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "rewrite from scratch\n\nThe metric shift is telling: **92% of developers** now measure productivity by **impact** (problems solved, business goals achieved) rather than **output** (lines of code, commits, bugs fixed).",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**IBM watsonx Code Assistant**: Deployed across enterprise development teams with measurable results:\n- **90%** projected time savings on explaining legacy code\n- **59%** reduction on documentation tasks\n- **38%** reduction in code generation and testing time\n- **71-75 days** saved per developer over 6 months\n\n**Mercedes-Benz**: Enterprise adoption of GitHub Copilot across development teams, standardizing AI-assisted workflows with measurable productivity gains and improved developer satisfaction.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Agent success rates:\n- Simple issues: 70% resolution rate\n- Medium complexity: 45% resolution rate\n- Complex issues: 23% resolution rate\n- Human baseline (for comparison): 85-95%\n\nThe data shows agents are production-ready for routine tasks, usable-with-oversight for medium complexity, and still-learning on hard problems.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "** Research shows approximately **50% of LLM-generated code contains security vulnerabilities**.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Code churn is 41% higher** for AI-generated code.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "** 45% of developers report debugging AI-generated code takes longer than writing it themselves.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Hallucinations remain pervasive:**\n- Commercial models (GPT-4, Claude): ~5% hallucination rate\n- Open-source models: ~21% hallucination rate\n- Average across all models: 19.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "6%\n\nHallucinations aren't just wrong answers\u2014they're confident wrong answers.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**\n\nOrganizations succeeding with agentic coding share patterns:\n- **Maintain TDD discipline**: Tests catch agent errors before production\n- **70% fewer post-deployment issues** with systematic testing\n- **3x faster modernization cycles** with trained teams\n- **Strong code review culture**: Human oversight remains essential\n- **Gradual adoption**: Start with low-risk tasks, expand as trust builds\n\nThe teams that treat agents as magical solutions fail.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "### For Individual Developers\n\n**Month 1: Start with Level 1-2 tools**\n- Enable GitHub Copilot or Cursor\n- Use autocomplete and suggestions, not full agent mode\n- Build prompt engineering skills with specific, detailed requests\n- Maintain TDD discipline\u2014write tests first, let agents implement\n\n**Month 2-3: Experiment with Level 3 agents**\n- Try Agent Mode on low-risk features\n- Review every line of AI-generated code\n- Track what works and what doesn't\n- Build \"AI-off\" time into your schedule to maintain coding muscles\n\n**Month 4-6: Develop orchestration skills**\n- Use agents for appropriate tasks (boilerplate, refactoring)\n- Write critical code yourself (security, complex logic)\n- Measure by impact: problems solved, not lines written\n- Share learnings with your team\n\n### For Engineering Teams\n\n**Phase 1: Pilot with volunteers**\n- Don't mandate adoption\u2014invite experimentation\n- Select 5-10 developers interested in AI tools\n- Establish code review protocols for AI-generated code\n- Track metrics: task completion time, bug rates, satisfaction\n\n**Phase 2: Establish protocols**\n- Define when AI is appropriate (boilerplate, tests, documentation)\n- Create review checklists for AI-generated code\n- Invest in prompt engineering training\n- Document patterns that work\n\n**Phase 3: Scale gradually**\n- Expand to wider team based on pilot success\n- Maintain human oversight for critical systems\n- Adjust processes based on data, not hype\n- Accept that some developers won't adopt\u2014that's okay\n\n### For Engineering Leaders\n\n**Budget appropriately:**\n- **3-6 months** for effective adoption (not weeks)\n- Accept initial productivity dip during learning\n- Allocate training time and resources\n- Measure by business outcomes, not activity\n\n**Create psychological safety:**\n- It's okay to say \"the agent got this wrong\"\n- It's okay to write code yourself when appropriate\n- It's okay to move slower initially\n- Success is learning, not blind faith in AI\n\n**Track the right metrics:**\n- Business impact (features shipped, bugs resolved, customer satisfaction)\n- Developer satisfaction and retention\n- Code quality and security metrics\n- Time to resolve issues (not just time to write code)\n\n**Timeline expectations:**\n- Month 1: Productivity may *decrease* (learning curve)\n- Months 2-3: Return to baseline productivity\n- Months 4-6: Measurable improvements (10-20%)\n- Month 6+: Sustained gains with proper practices\n\n## The 2025-2026 Outlook\n\nThe agentic coding revolution is accelerating.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "8% CAGR.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Adoption acceleration**:\n- **2024**: 84% of developers using or planning to use AI tools\n- **2026**: 40% of enterprise applications will feature AI agents (up from <5% in 2025)\n- **2028**: 90% of enterprise engineers will use AI code assistants (Gartner prediction)\n\n**Tool consolidation**: Currently 20+ agentic coding tools exist.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Education impact** (Forrester predictions):\n- Computer science enrollment will drop **20%**\n- Time-to-hire for developers will **double**\n- Industry certifications and practical skills will matter more than degrees\n- Coding bootcamps will pivot to \"AI-assisted development\" curricula\n\n**The future developer**:\n- Less time writing syntax, more time on architecture and problem-solving\n- Prompt engineering as a core skill alongside algorithms and data structures\n- Multi-agent coordination as a differentiator\n- Deep domain knowledge valued more than breadth of language knowledge\n\nKent Beck said it best: \"After 52 years, I'm more excited about coding than ever because I can tackle more ambitious problems.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Plan for 40% failure rate**: Gartner's prediction isn't pessimistic\u2014it's realistic.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Remember the 46% distrust rate**: If developers don't trust output, the tool fails.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "84% adoption.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Your GitHub profile shows 10,000+ contributions.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "6 billion** (2034) at 35% CAGR\n- **Replit Agent** drove the company from $10M to $100M ARR in just 9 months\n- **GitHub Copilot** now serves 20 million users across 90% of Fortune 100 companies\n- **55,000+ developers** using GitHub's Agent Mode, with 10,000+ merged PRs from autonomous agents\n\nThis isn't experimental technology anymore.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Over 50,000 organizations now use the platform.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

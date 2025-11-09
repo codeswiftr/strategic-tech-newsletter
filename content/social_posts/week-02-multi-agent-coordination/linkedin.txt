@@ -1,0 +1,16 @@
+Designing Communication Patterns for Agent Swarms: Multi-Agent Coordination Protocols
+
+You've adopted GitHub Copilot Agent Mode. It's writing features while you review. Productivity is up 25%. Your manager is thrilled.
+
+Key insights:
+• How do they discover each other?
+• How do they communicate tasks and results?
+• How do they share context without redundancy?
+• How do they resolve disagreements?
+• How do they avoid duplicating work?
+
+Read the full analysis in my newsletter (link in comments)
+
+What's your take? Share your thoughts below. 👇
+
+#TechStrategy #Innovation #Leadership

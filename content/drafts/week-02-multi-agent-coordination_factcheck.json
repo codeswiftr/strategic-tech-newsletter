@@ -1,0 +1,60 @@
+{
+  "draft": "content/drafts/week-02-multi-agent-coordination.md",
+  "check_date": "2025-11-09T21:15:06.688993",
+  "total_claims": 5,
+  "verified": 0,
+  "unverified": 5,
+  "failed": 0,
+  "details": [
+    {
+      "claim": "Productivity is up 25%.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "UX trade-off\"\nAgent System: \"Security Agent recommends 2FA required\"\nAgent System: \"UX Agent recommends 2FA optional for better conversion\"\nHuman: *Reviews data, decides 2FA optional with strong encouragement*\n```\n\n**Best practice**: Define clear escalation criteria upfront\n- Security conflicts \u2192 Always escalate\n- Performance conflicts \u2192 Escalate if >20% impact\n- Style conflicts \u2192 Agent vote decides\n\n## Production Patterns: What Actually Works\n\nTheory meets reality.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "2% improvement over single-agent approach\n- **Cost**: ~15x more tokens than single-agent\n- **Key finding**: 80% of performance from token count, 20% from orchestration\n\n**Google Vertex AI Agent Engine**:\n- Fully managed runtime for custom agents\n- Built-in testing and release management\n- Global scale with enterprise security\n- Focus: Production-ready multi-agent deployments\n\n## Performance Metrics: How to Measure Success\n\nYou can't improve what you don't measure.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "13% task success in research scenarios\n- Graph-based coordination: Superior token efficiency vs.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "**Framework convergence**: LangGraph, AutoGen, and CrewAI representing 80%+ of production deployments.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    }
+  ]
+}

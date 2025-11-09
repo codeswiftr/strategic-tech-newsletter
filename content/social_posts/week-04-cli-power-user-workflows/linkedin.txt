@@ -1,0 +1,16 @@
+Crafting Command-Line Interfaces for Agent Orchestration: CLI Power User Workflows
+
+You're a power user. Your terminal is your cockpit. Three monitors: code, terminal, documentation. You navigate complex systems with `kubectl`, manage infrastructure with `terraform`, deploy with custom scripts. Your `.zshrc` is 400 lines of carefully tuned aliases and functions.
+
+Key insights:
+• Edits code in your local Git repository
+• Supports 100+ programming languages
+• Works with OpenAI, Anthropic, Google Gemini, Groq, local models via Ollama
+• Automatic lint-and-test fixing with AST-aware context
+• Repository mapping for token-efficient prompts
+
+Read the full analysis in my newsletter (link in comments)
+
+What's your take? Share your thoughts below. 👇
+
+#TechStrategy #Innovation #Leadership
