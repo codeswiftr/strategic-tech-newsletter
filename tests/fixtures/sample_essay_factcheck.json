@@ -1,0 +1,50 @@
+{
+  "draft": "tests/fixtures/sample_essay.md",
+  "check_date": "2025-11-09T02:24:47.616875",
+  "total_claims": 4,
+  "verified": 0,
+  "unverified": 4,
+  "failed": 0,
+  "details": [
+    {
+      "claim": "# The Future of AI Regulation\n\nThe AI industry is experiencing 45% year-over-year growth according to [McKinsey 2024](https://example.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/report), 67% of enterprises have implemented AI governance.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Industry experts predict that 80% of jurisdictions will have AI-specific laws by 2026.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "## Current Landscape\n\nRecent studies show that:\n- Regulation frameworks are emerging across 12 countries\n- Investment reached $50,000,000 in Q4 2024\n- Major tech companies are adopting self-regulation protocols\n\nAccording to [Gartner's 2024 report](https://gartner.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    }
+  ]
+}

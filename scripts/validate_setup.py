@@ -257,7 +257,7 @@ def check_tests():
         return False
 
     # Count test files
-    test_files = list(tests_dir.glob('***/test_*.py'))
+    test_files = list(tests_dir.glob('**/test_*.py'))
     test_count = len(test_files)
 
     print_check(
