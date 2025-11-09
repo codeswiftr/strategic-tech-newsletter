@@ -1,0 +1,16 @@
+The EU AI Act: What Tech Leaders Actually Need to Know About Compliance by 2025
+
+Your legal team just flagged your AI-powered product. The EU AI Act—the world's first comprehensive AI regulation—begins phased enforcement in February 2025. Your SaaS platform uses AI for resume screening, customer support chatbots, credit risk assessment, and personalized learning recommendations.
+
+Key insights:
+• Social scoring by governments
+• Exploitation of vulnerabilities (children, disabilities)
+• Subliminal manipulation
+• Real-time biometric identification in public spaces (with narrow law enforcement exceptions)
+• **Employment and HR**: Resume screening, interview analysis, employee performance evaluation, promotion decisions, work assignment algorithms
+
+Read the full analysis in my newsletter (link in comments)
+
+What's your take? Share your thoughts below. 👇
+
+#TechStrategy #Innovation #Leadership

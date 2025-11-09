@@ -120,10 +120,43 @@
       "topics": ["Citus distributed Postgres", "Sharding strategies", "Multi-tenant databases"],
       "credibility_score": 93,
       "notes": "Core contributor to Citus extension, wrote definitive guide on Postgres sharding"
+    },
+    {
+      "name": "Dr. Natalia Kovalenko",
+      "expertise": ["EU Tech Policy", "AI Regulation", "Digital Governance"],
+      "twitter_handle": "@nkovalenko_eu",
+      "email": "natalia.kovalenko@example.eu",
+      "affiliation": "European Digital Policy Institute",
+      "last_contacted": "2025-01-20",
+      "topics": ["EU AI Act", "Brussels Effect", "Tech regulation", "AI governance"],
+      "credibility_score": 96,
+      "notes": "Advised European Commission on AI Act, published 20+ papers on EU digital regulation"
+    },
+    {
+      "name": "Michael Bradford",
+      "expertise": ["Tech Law", "AI Compliance", "GDPR"],
+      "twitter_handle": "@mbradford_law",
+      "email": "michael.bradford@example-legal.com",
+      "affiliation": "Partner at EU Tech Law Firm",
+      "last_contacted": "2025-01-18",
+      "topics": ["EU AI Act compliance", "GDPR enforcement", "Tech regulatory strategy"],
+      "credibility_score": 92,
+      "notes": "Led GDPR compliance for 50+ tech companies, now specializing in AI Act"
+    },
+    {
+      "name": "Jennifer Park",
+      "expertise": ["Compliance", "Risk Management", "Regulatory Affairs"],
+      "twitter_handle": "@jpark_compliance",
+      "email": "jennifer.park@example.com",
+      "affiliation": "Chief Compliance Officer at European Fintech",
+      "last_contacted": "2025-01-15",
+      "topics": ["AI compliance programs", "High-risk AI systems", "Conformity assessment"],
+      "credibility_score": 89,
+      "notes": "Implemented EU AI Act compliance for 10+ high-risk AI systems in financial services"
     }
   ],
   "last_updated": "2025-01-20",
-  "total_experts": 11,
+  "total_experts": 14,
   "expertise_categories": {
     "AI/ML": 1,
     "Cloud Infrastructure": 1,
@@ -135,6 +168,9 @@
     "Software Engineering Research": 1,
     "Database Architecture": 1,
     "Site Reliability Engineering": 1,
-    "Distributed Databases": 1
+    "Distributed Databases": 1,
+    "EU Tech Policy": 1,
+    "Tech Law": 1,
+    "Compliance": 1
   }
 }
