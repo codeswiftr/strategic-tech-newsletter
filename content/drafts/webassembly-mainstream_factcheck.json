@@ -1,0 +1,40 @@
+{
+  "draft": "content/drafts/webassembly-mainstream.md",
+  "check_date": "2025-11-10T06:25:51.237138",
+  "total_claims": 3,
+  "verified": 0,
+  "unverified": 3,
+  "failed": 0,
+  "details": [
+    {
+      "claim": "org/docs/develop/performance) show WASM modules executing within 1-5% of native code performance for compute-intensive workloads.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "io/articles/why-webassembly-server/) image processing throughput at 93% of native Rust performance when compiled to WASM\u2014far exceeding JavaScript (15% of native) or Python (8% of native) alternatives.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "For multi-tenant platforms, this difference determines whether you're running 100 or 10,000 workloads per server.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    }
+  ]
+}

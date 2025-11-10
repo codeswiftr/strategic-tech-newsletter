@@ -1,0 +1,120 @@
+{
+  "draft": "content/drafts/zero-trust-architecture.md",
+  "check_date": "2025-11-10T06:25:55.437065",
+  "total_claims": 11,
+  "verified": 0,
+  "unverified": 11,
+  "failed": 0,
+  "details": [
+    {
+      "claim": "88 million, with compromised credentials accounting for 16% of breaches.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "More damning: traditional perimeter defenses failed to prevent 83% of organizations from experiencing multiple breaches.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/en/newsroom/press-releases/zero-trust) that Zero Trust network access (ZTNA) deployments grew by 48% in 2023 alone.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Google's 135,000+ employees work from anywhere without traditional VPN, yet security incidents related to access control dropped by 40% post-implementation.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "One financial services firm using JIT access reduced standing privileged accounts by 87%, dramatically shrinking their attack surface.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/report/the-zero-trust-extended-ecosystem/) found that 63% of organizations reported Zero Trust implementation took longer than expected, primarily due to legacy application compatibility issues and change management challenges.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "One healthcare organization reduced their Zero Trust rollout timeline by 40% by starting with a single high-value application and learning from that deployment before scaling.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "** You'll never achieve 100% Zero Trust coverage, and that's acceptable.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Google's 135,000+ employees work from anywhere without traditional VPN, yet security incidents related to access control dropped by 40% post-implementation.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "The deployment required 18 months, affected 50,000+ employees, and cost approximately $80 million in licensing and implementation.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/products/zscaler-private-access), which grew to protect over 4,500 enterprise customers, shows this transition already underway.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    }
+  ]
+}

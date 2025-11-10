@@ -1,0 +1,80 @@
+{
+  "draft": "content/drafts/small-language-models-edge-ai.md",
+  "check_date": "2025-11-10T06:25:42.255101",
+  "total_claims": 7,
+  "verified": 0,
+  "unverified": 7,
+  "failed": 0,
+  "details": [
+    {
+      "claim": "com/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/) shows that 53% of mobile users abandon interactions taking longer than three seconds.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/blogs/machine-learning/reduce-inference-costs-by-up-to-50-on-amazon-sagemaker/) shows that 70-80% of total AI expenses come from inference, not training.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Microsoft's Phi-3-mini achieves 69% on MMLU (Massive Multitask Language Understanding) despite having 38 times fewer parameters than GPT-3.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "pdf) demonstrates that hybrid architectures\u2014using small models for common queries and routing complex requests to cloud models\u2014reduce latency by 60% while cutting inference costs by 40%.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Rather than choosing between cloud or edge, organizations will implement tiered systems: small models handle 80-90% of routine requests on-device, with complex queries escalating to larger cloud models.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "A company serving 10 million AI-powered interactions daily might spend $50,000-150,000 monthly on cloud inference.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "A 3B model fine-tuned on 10,000 legal contracts outperforms GPT-4 on contract clause extraction, according to independent benchmarks from legal tech companies.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    }
+  ]
+}
