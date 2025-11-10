@@ -1,0 +1,150 @@
+{
+  "draft": "content/drafts/march-w2-insight-cloud-waste.md",
+  "check_date": "2025-11-10T17:54:50.193255",
+  "total_claims": 14,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 14,
+  "details": [
+    {
+      "claim": "The CFO presented quarterly results showing $42M in AWS spending\u2014a 35% increase year-over-year despite flat revenue.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "pdf) found that organizations waste an estimated **32% of their cloud spend**\u2014approximately **$200 billion annually** across the global cloud market.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "More critically, only 28% of organizations can attribute cloud costs to specific business units or products.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Zombie Resources (35% of waste)**\n[Virtana's 2024 analysis](https://www.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "com/blog/cloud-waste-report/) found that 35% of cloud waste comes from resources that are provisioned but never used:\n- Development environments running 24/7 despite 40-hour work weeks\n- Abandoned POC infrastructure that nobody remembers to decommission\n- CI/CD agents scaled for peak load but idle 80% of the time\n- \"Just in case\" DR replicas that were never tested or validated\n\n**2.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Over-Provisioning (28% of waste)**\nEngineers default to generous resource allocation to avoid performance issues:\n- Kubernetes pods requesting 4 CPU cores but averaging 0.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Lack of Cost Visibility (22% of waste)**\nMost organizations can't connect cloud spending to business value:\n- Shared resources with no chargeback model (who pays for the Kubernetes cluster?",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": ")\n- Missing or inconsistent tagging (60% of resources lack business unit tags)\n- Opaque pricing models (Savings Plans sound good until you can't explain them to finance)\n\n**4.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Inertia and Technical Debt (15% of waste)**\nLegacy architectures optimized for on-premise economics:\n- Monolithic applications running on oversized VMs instead of containerized microservices\n- Inefficient data transfer patterns that multiply egress costs\n- Architectures designed when S3 storage was expensive (it's now 80% cheaper than 2015)\n\n## Why This Became a Board-Level Issue\n\nThree convergent factors transformed cloud spending from operational concern to governance crisis:\n\n**1.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "If revenue grew 50% annually, nobody scrutinized whether cloud costs grew 60%.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "io/reports/cncf-annual-survey-2024/) found that 84% of organizations use Kubernetes in production\u2014but only 31% have effective cost monitoring for containerized workloads.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "### Response 1: FinOps as Organizational Discipline\n\nThe FinOps Foundation reports [400% growth in certified practitioners](https://www.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Progressive organizations are automating enforcement:\n\n- **Policy-as-code**: OpenPolicy Agent or Kyverno enforce resource limits, require cost tags, block expensive instance types without approval\n- **Scheduled shutdowns**: Automatic termination of dev/test environments outside business hours (saves 20-30% on non-production spend)\n- **Real-time cost gates**: CI/CD pipelines fail if infrastructure changes exceed cost thresholds without justification\n\n### Response 4: Cultural Shift in Incentives\n\nThe most impactful change is making cost efficiency a first-class cultural value:\n\n- Cloud cost KPIs in engineering OKRs\n- Cost optimization hackathons with recognition and bonuses\n- Cost reduction treated as innovation (one company gave engineers 10% of first-year savings as bonuses)\n\nMarcus Rodriguez observes: \"The organizations solving this aren't technically superior\u2014they're culturally different.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Make cost efficiency a cultural value, not a one-time project**: One-off audits yield 10-15% savings that evaporate within 6 months.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

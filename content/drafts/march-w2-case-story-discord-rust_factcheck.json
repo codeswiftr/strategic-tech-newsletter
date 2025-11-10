@@ -1,0 +1,50 @@
+{
+  "draft": "content/drafts/march-w2-case-story-discord-rust.md",
+  "check_date": "2025-11-10T17:54:49.738334",
+  "total_claims": 4,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 4,
+  "details": [
+    {
+      "claim": "When they flipped the switch, the results were extraordinary:\n\n- **Latency**: Reduced from ~10ms average to sub-millisecond\n- **Memory usage**: Decreased by 40%\n- **CPU utilization**: Dropped by 45%\n- **GC pauses**: Eliminated entirely\n\nThe [engineering blog post](https://discord.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"\n\nThe maintenance burden multiplied:\n\n- **Hiring complexity**: Job descriptions now required \"Rust experience preferred,\" narrowing the candidate pool by an estimated 60% compared to Go roles\n- **Onboarding friction**: New hires needed 3-4 weeks to become productive with the Rust service versus 1-2 weeks for Go services\n- **Knowledge concentration**: Critical system knowledge resided with 3-4 people, creating single points of failure\n- **Migration pressure**: Teams felt compelled to justify why their services shouldn't also be rewritten in Rust, creating strategic distraction\n\n## The Hidden Costs\n\nDiscord's finance team later conducted a post-mortem analyzing the total cost of the Rust rewrite:\n\n**Direct costs:**\n- Initial rewrite: ~1,200 engineering hours ($180K)\n- Extended QA and load testing: ~400 hours ($60K)\n- Documentation and knowledge transfer: ~200 hours ($30K)\n\n**Indirect costs (18 months post-launch):**\n- Operational incidents requiring specialized knowledge: ~800 hours ($120K)\n- Extended onboarding time (15 new hires \u00d7 2 extra weeks): ~1,200 hours ($180K)\n- Recruitment friction and extended time-to-hire: estimated $150K in lost productivity\n- Team productivity impact from knowledge silos: estimated $400K\n- Opportunity cost of engineers learning Rust vs.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Make reversible decisions when possible:** Could Discord have achieved 70% of the performance gains with targeted Go optimizations?",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"\n\nThe maintenance burden multiplied:\n\n- **Hiring complexity**: Job descriptions now required \"Rust experience preferred,\" narrowing the candidate pool by an estimated 60% compared to Go roles\n- **Onboarding friction**: New hires needed 3-4 weeks to become productive with the Rust service versus 1-2 weeks for Go services\n- **Knowledge concentration**: Critical system knowledge resided with 3-4 people, creating single points of failure\n- **Migration pressure**: Teams felt compelled to justify why their services shouldn't also be rewritten in Rust, creating strategic distraction\n\n## The Hidden Costs\n\nDiscord's finance team later conducted a post-mortem analyzing the total cost of the Rust rewrite:\n\n**Direct costs:**\n- Initial rewrite: ~1,200 engineering hours ($180K)\n- Extended QA and load testing: ~400 hours ($60K)\n- Documentation and knowledge transfer: ~200 hours ($30K)\n\n**Indirect costs (18 months post-launch):**\n- Operational incidents requiring specialized knowledge: ~800 hours ($120K)\n- Extended onboarding time (15 new hires \u00d7 2 extra weeks): ~1,200 hours ($180K)\n- Recruitment friction and extended time-to-hire: estimated $150K in lost productivity\n- Team productivity impact from knowledge silos: estimated $400K\n- Opportunity cost of engineers learning Rust vs.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

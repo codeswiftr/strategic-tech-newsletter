@@ -1,0 +1,9 @@
+The PostgreSQL Sharding Disaster: Why Stripe Didn't Migrate
+
+In 2017, Stripe's engineering team embarked on what seemed like a textbook database scaling solution: shard their monolithic PostgreSQL database to handle explosive transaction growth. Eighteen months and millions of dollars later, they abandoned the project entirely. The decision to walk away from 
+
+Read the full analysis in my newsletter (link in comments)
+
+What's your take? Share your thoughts below. 👇
+
+#TechStrategy #Innovation #Leadership

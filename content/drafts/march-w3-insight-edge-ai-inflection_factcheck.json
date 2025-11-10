@@ -1,0 +1,90 @@
+{
+  "draft": "content/drafts/march-w3-insight-edge-ai-inflection.md",
+  "check_date": "2025-11-10T17:54:50.651457",
+  "total_claims": 8,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 8,
+  "details": [
+    {
+      "claim": "com/enterprise-ai-survey-2025) deploying production AI revealed that 68% are actively moving inference workloads *away* from cloud-only architectures.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Model Compression Breakthroughs\n\nModern techniques\u2014quantization, pruning, distillation\u2014can shrink models to 1/10th their original size with <2% accuracy loss.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "com/llm-compression-techniques) while maintaining 95% of performance.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Rodriguez's team reduced their AWS bill by 40% after edge migration: \"We renegotiated our enterprise agreement.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"\n\n## The 2025 Edge AI Landscape: Winners and Losers\n\n**Winners:**\n- Hardware vendors (Nvidia, Qualcomm, Google) selling edge AI accelerators\n- Edge platform providers (AWS Greengrass, Azure IoT Edge, Google Distributed Cloud)\n- Model optimization tools (ONNX, TensorRT, OpenVINO)\n- Enterprises with high-volume, latency-sensitive AI workloads\n\n**Losers:**\n- Cloud providers relying on inference revenue (margin compression)\n- Pure-cloud AI startups without edge strategies\n- Enterprises locked into cloud-only architectures without migration plans\n\nChen's prediction: \"[By 2027, 60% of enterprise AI inference will happen outside centralized cloud data centers](https://www.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"[At 300,000 km/s, a round-trip to a data center 1,000 miles away takes minimum 10ms](https://www.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Streaming that to the cloud for inference costs approximately [$6,000/month in egress fees alone](https://www.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "At 30fps across 50 cameras, that's $388,800/year in inference costs.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

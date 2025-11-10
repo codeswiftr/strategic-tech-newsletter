@@ -1,0 +1,45 @@
+Tweet 1/8:
+Market Insight: The $200B Cloud Waste Problem
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+In February 2025, a Fortune 500 retail company's board meeting derailed spectacularly. The CFO presented quarterly results showing $42M in AWS spending—a 35% increase year-over-year despite flat revenue. The CTO couldn't explain which services drove the increase or how ...
+
+==================================================
+
+Tweet 3/8:
+1/ CFOs are treating cloud spend like a compliance failure, demanding the same rigor as financial audits
+
+==================================================
+
+Tweet 4/8:
+2/ Boards are asking pointed questions about cloud ROI that CTOs struggle to answer
+
+==================================================
+
+Tweet 5/8:
+3/ Cloud cost overruns are appearing in earnings calls as margin pressure explanations
+
+==================================================
+
+Tweet 6/8:
+4/ FinOps has gone from nice-to-have to executive-mandated in 18 months
+
+==================================================
+
+Tweet 7/8:
+5/ Development environments running 24/7 despite 40-hour work weeks
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

@@ -1,0 +1,80 @@
+{
+  "draft": "content/drafts/march-w4-case-story-postgres-sharding.md",
+  "check_date": "2025-11-10T17:54:50.773600",
+  "total_claims": 7,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 7,
+  "details": [
+    {
+      "claim": "99% routing accuracy, sub-5ms latency overhead.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"What they discovered was that the 'simple' parts\u2014like maintaining consistency across shards\u2014consumed 80% of engineering time.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "By month 14, Stripe had spent $12M of the projected $15M budget and completed only 30% of customer migrations.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Since 94% of queries touched recent data, this reduced the primary database size by 67% while maintaining performance.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Stripe's vertical scaling solution was technically less elegant than sharding, but it was 70% cheaper and 80% faster to implement.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Match Architecture to Access Patterns**\nStripe discovered that 94% of their queries touched recent data for a single customer.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"We had a 6TB database doing 150,000 writes per second,\" recalls David Kim, former infrastructure lead at a similar-scale fintech company.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

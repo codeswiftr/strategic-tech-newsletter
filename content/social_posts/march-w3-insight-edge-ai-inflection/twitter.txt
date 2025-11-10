@@ -1,0 +1,47 @@
+Tweet 1/8:
+Edge AI's Inflection Point: Why Enterprises Are Rejecting Cloud-Only Strategies
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+**Published:** March 2025
+**Reading time:** 5 minutes
+**Author:** Strategic Tech Newsletter...
+
+==================================================
+
+Tweet 3/8:
+1/ Financial services (PCI-DSS compliance)
+
+==================================================
+
+Tweet 4/8:
+2/ Government/defense (data sovereignty requirements)
+
+==================================================
+
+Tweet 5/8:
+3/ Manufacturing (IP protection for proprietary processes)
+
+==================================================
+
+Tweet 6/8:
+4/ Where does inference run? (Cloud, edge, hybrid?)
+
+==================================================
+
+Tweet 7/8:
+5/ What's the cost per prediction?
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

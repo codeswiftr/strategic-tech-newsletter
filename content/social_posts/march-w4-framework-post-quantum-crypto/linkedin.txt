@@ -1,0 +1,16 @@
+Post-Quantum Cryptography Roadmap: What Engineering Teams Must Do Before 2030
+
+The cryptographic foundations of modern internet security are on a countdown to obsolescence. Within the next decade, sufficiently powerful quantum computers will break the RSA, ECC, and Diffie-Hellman encryption that secures everything from HTTPS connections to financial transactions to government 
+
+Key insights:
+• **2025-2027**: Quantum computers reach 1,000+ logical qubits, capable of breaking 1024-bit RSA in laboratory conditions
+• **2028-2030**: Cloud-accessible quantum computing makes cryptanalysis economically viable for nation-states
+• **2030-2035**: Widespread quantum capability enables routine decryption of previously captured encrypted traffic
+• Conduct crypto inventory across entire stack (applications, infrastructure, embedded systems)
+• Establish crypto agility principles in new development
+
+Read the full analysis in my newsletter (link in comments)
+
+What's your take? Share your thoughts below. 👇
+
+#TechStrategy #Innovation #Leadership

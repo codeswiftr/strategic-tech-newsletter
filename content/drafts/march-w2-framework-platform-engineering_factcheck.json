@@ -1,0 +1,70 @@
+{
+  "draft": "content/drafts/march-w2-framework-platform-engineering.md",
+  "check_date": "2025-11-10T17:54:50.015763",
+  "total_claims": 6,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 6,
+  "details": [
+    {
+      "claim": "com/en/articles/what-is-platform-engineering) that by 2026, 80% of software engineering organizations will establish platform engineering teams\u2014up from 45% in 2023.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Organizational Structure**:\n- Product teams own their entire stack: code, infrastructure, monitoring, on-call\n- Central \"DevOps team\" provides tooling, best practices, and consultation\n- Infrastructure as code enables self-service, but teams manage their own configurations\n- Site Reliability Engineers (SREs) set standards and handle complex operational challenges\n\n**Success Pattern**: Works exceptionally well for organizations with:\n- 5-15 product teams\n- Engineers who want operational ownership\n- Relatively homogeneous tech stack\n- Strong operational culture\n\n**Failure Pattern**: Breaks down when:\n- Teams exceed 20+ engineering squads (cognitive overhead becomes unsustainable)\n- Operational complexity requires specialized expertise (Kubernetes, security, compliance)\n- Duplicated effort across teams exceeds 30% of infrastructure work\n- On-call burden creates burnout and attrition\n\n### The Platform Engineering Model (2020-Present)\n\n**Core Philosophy**: \"Provide golden paths that make the right thing the easy thing.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "product work (target: identify if >30% time on infrastructure)\n- Document duplicated efforts across teams (CI/CD configs, monitoring setups, security scanning)\n- Calculate current cloud spend efficiency and waste\n\n**Week 3-4: Define Platform Vision**\n- Conduct working sessions with 5-7 lead engineers across teams\n- Identify highest-value platform capabilities (common answers: deployment automation, environment provisioning, observability, security scanning)\n- Draft platform charter: mission, scope, success metrics, interaction model\n- Socialize vision with engineering leadership for feedback\n\n**Key Deliverable**: One-page platform strategy document with:\n- Problem statement with quantified pain points\n- Platform scope (what's in, what's out)\n- Success metrics (e.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Developer Velocity Metrics**\n   - Time from commit to production (target: <30 minutes for most services)\n   - Time to provision new environment (target: <4 hours)\n   - Percentage of deployments that require manual intervention (target: <5%)\n\n2.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Efficiency Metrics**\n   - Infrastructure cost per product team (should decrease over time)\n   - Percentage of engineering time spent on infrastructure (target: <15%)\n   - Number of infrastructure incidents caused by product team actions (target: decreasing)\n\n4.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Pitfall #4: Ignoring Migration Costs**\n- **Solution**: Budget 30% of platform team time for helping product teams adopt new services.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+Tweet 1/8:
+Real-Time Data Pipeline Architecture: Building Modern Alternatives to Legacy ETL
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+**Published:** March 2025
+**Reading time:** 6 minutes
+**Author:** Strategic Tech Newsletter...
+
+==================================================
+
+Tweet 3/8:
+1/ **ETL Mindset:** "Pull data from sources every night, transform it, load it into the warehouse."
+
+==================================================
+
+Tweet 4/8:
+2/ **Event-Driven Mindset:** "Every state change is an event. Publish it immediately. Let consumers react in real-time."
+
+==================================================
+
+Tweet 5/8:
+3/ **Producers** publish events to a streaming platform when things happen (user signup, order placed, sensor reading)
+
+==================================================
+
+Tweet 6/8:
+4/ **Stream processors** transform events in-flight (enrich with user data, aggregate metrics, detect anomalies)
+
+==================================================
+
+Tweet 7/8:
+5/ **Consumers** subscribe to event streams and react (update search indices, trigger notifications, feed ML models)
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

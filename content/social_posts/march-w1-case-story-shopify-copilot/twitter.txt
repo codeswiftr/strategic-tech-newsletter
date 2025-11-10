@@ -1,0 +1,45 @@
+Tweet 1/8:
+The $3M Copilot Bet: How Shopify Scaled AI Coding Assistants Across 300+ Engineers
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+**Case Story | Week 1, March 2025**...
+
+==================================================
+
+Tweet 3/8:
+1/ **Code completion acceptance rate**: 42% (industry average: 26-30%)
+
+==================================================
+
+Tweet 4/8:
+2/ **Pull request cycle time**: Reduced by 31% (from 6.2 hours to 4.3 hours)
+
+==================================================
+
+Tweet 5/8:
+3/ **Unit test coverage**: Increased 18% as developers wrote more tests faster
+
+==================================================
+
+Tweet 6/8:
+4/ **New hire productivity**: Ramped 40% faster (8.5 weeks vs 12 weeks to first major commit)
+
+==================================================
+
+Tweet 7/8:
+5/ Focus: Backend infrastructure and API development
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

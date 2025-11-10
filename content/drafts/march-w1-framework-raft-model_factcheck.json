@@ -1,0 +1,100 @@
+{
+  "draft": "content/drafts/march-w1-framework-raft-model.md",
+  "check_date": "2025-11-10T17:54:49.374607",
+  "total_claims": 9,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 9,
+  "details": [
+    {
+      "claim": "9% of agent decisions made on data <100ms old\n- **Race condition rate**: <0.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "01% of multi-agent workflows\n- **State consistency**: 100% of agents see causally consistent state\n\n### 2.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "7% uptime even during a 6-hour GPT-4 API outage in December 2024.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Key Metrics**:\n- **Autonomous recovery rate**: % of failures resolved without human intervention (target: >95%)\n- **Mean time to recovery (MTTR)**: Automated recovery time (target: <30 seconds)\n- **Degraded mode effectiveness**: Quality delta between optimal and degraded modes (target: <15%)\n\n### 3.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Key Metrics**:\n- **Blast radius**: % of system affected by single-agent failure (target: <5%)\n- **Cascading failure rate**: % of failures that propagate to other agents (target: <2%)\n- **State corruption incidents**: Failures that corrupt shared state (target: 0)\n\n### 4.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": ", 100% of errors, 1% of successes)\n\n2.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Key Metrics**:\n- **Trace coverage**: % of decisions with complete trace data (target: 100% for critical paths)\n- **Reproducibility rate**: % of traces that can be exactly replayed (target: >99.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "9%)\n- **Mean time to root cause (MTTRC)**: Time from \"why did this happen?",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "It catastrophically fails at 100,000 requests/second.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

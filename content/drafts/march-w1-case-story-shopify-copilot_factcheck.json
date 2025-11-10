@@ -1,0 +1,240 @@
+{
+  "draft": "content/drafts/march-w1-case-story-shopify-copilot.md",
+  "check_date": "2025-11-10T17:54:49.178905",
+  "total_claims": 23,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 23,
+  "details": [
+    {
+      "claim": "\"We needed hard numbers on cycle time, code quality, and developer satisfaction\u2014ideally showing a 20% improvement threshold to justify the per-seat cost.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"\n\nThe pilot results exceeded expectations:\n- **Code completion acceptance rate**: 42% (industry average: 26-30%)\n- **Pull request cycle time**: Reduced by 31% (from 6.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "3 hours)\n- **Unit test coverage**: Increased 18% as developers wrote more tests faster\n- **New hire productivity**: Ramped 40% faster (8.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "blog/2024-enterprise-copilot-metrics/), who advised Shopify during the rollout, noted that the acceptance rate was \"in the top 10% of enterprise deployments we've seen\u2014largely because Shopify invested heavily in custom training context.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"\n\n## The Rollout Strategy\n\nRather than flip a switch for all 380 engineers, Shopify staged the rollout across four phases over six months:\n\n**Phase 1 (Months 1-2): Foundation Teams (80 engineers)**\n- Focus: Backend infrastructure and API development\n- Rationale: High code volume, standardized patterns, measurable throughput\n- Investment: $140K (licenses + training)\n- Result: 38% reduction in boilerplate code writing time\n\n**Phase 2 (Months 3-4): Product Teams (120 engineers)**\n- Focus: Storefront, checkout, merchant-facing features\n- Rationale: Complex business logic, high review overhead\n- Investment: $210K\n- Result: 27% faster feature delivery, 22% reduction in bug density\n\n**Phase 3 (Months 5-6): Platform & DevOps (90 engineers)**\n- Focus: Infrastructure-as-code, CI/CD pipelines, observability\n- Rationale: High context switching, documentation-heavy work\n- Investment: $157K\n- Result: 34% improvement in incident response documentation quality\n\n**Phase 4 (Months 7-8): Full Adoption + Optimization (90 remaining engineers)**\n- Focus: Mobile, data science, security teams\n- Investment: $105K + $88K for custom model fine-tuning\n- Result: Mixed\u2014mobile teams saw 15% gains, but data science adoption struggled initially\n\n**Total Year 1 Investment**: $2.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "1M in GitHub Copilot Enterprise licenses ($460/seat/year for 380 engineers) was only 71% of the total cost.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Enablement Program** ($320K)\n   - 4-hour training workshops for each team\n   - \"Copilot Champions\" program (15 engineers at 20% allocated time)\n   - Internal prompt engineering best practices documentation\n   - Weekly office hours for first 6 months\n\n2.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Tooling & Integration** ($120K)\n   - IDE standardization (70% of team migrated to VS Code)\n   - Telemetry and analytics dashboard\n   - Integration with code quality gates\n   - Custom plugins for Shopify's monorepo structure\n\n4.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "2 hours, -34%)\n- **Weekly commits per engineer**: 14.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "8, +20%)\n- **Time to first commit (new hires)**: 8.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "1 weeks, -32%)\n- **Documentation coverage**: 67% of functions documented (up from 42%)\n\n### Quality Metrics\n- **Bug density**: 2.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "9, -21%)\n- **Code review iterations**: 1.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "4, -25%)\n- **Unit test coverage**: 76% (up from 64%)\n- **Security vulnerability introduction**: No measurable change (critical for skeptics)\n\n### Developer Experience\n- **Satisfaction score**: 8.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "2/10 (quarterly survey, n=312)\n- **\"Would be significantly less productive without it\"**: 78% agreement\n- **Flow state preservation**: 64% report fewer context switches\n- **Onboarding confidence**: 83% of new hires rated it \"essential\" to ramping up\n\n### Business Impact\n- **Estimated engineering time saved**: 42,000 hours annually\n- **Value of time saved** (at $95/hour loaded cost): $3.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "99M\n- **Net ROI Year 1**: 36% ($3.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "94M cost)\n- **Projected ROI Year 2**: 89% (reduced enablement costs, increased adoption)\n\n### Unexpected Benefits\n- **Refactoring velocity**: 3.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "2x faster for large-scale codebase migrations\n- **Cross-team code discovery**: 41% increase in internal package reuse\n- **Meeting time reduction**: Engineers spent 12% less time in \"code walkthrough\" meetings\n\n## Lessons Learned: What Worked and What Didn't\n\nFoster's team documented extensive learnings throughout the rollout.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Mobile development adoption**: iOS/Swift teams saw only 15% acceptance rates due to limited Swift training data.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Budget 40% beyond license costs**\nThe real investment is enablement, customization, and ongoing optimization.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "94M total spend was 40% higher than the sticker price.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"\n\n## The Bottom Line\n\nShopify's $3M bet on AI coding assistants delivered a 36% ROI in Year 1, with projected returns accelerating to 89% in Year 2 as enablement costs decrease and adoption deepens.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "More importantly, it fundamentally changed how the engineering organization operates:\n\n- New hires contribute 32% faster\n- Senior engineers spend more time on architecture and less on boilerplate\n- Code quality improved despite higher velocity\n- Developer satisfaction reached all-time highs\n\n\"This isn't about replacing engineers,\" Foster emphasized.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "2/10 (quarterly survey, n=312)\n- **\"Would be significantly less productive without it\"**: 78% agreement\n- **Flow state preservation**: 64% report fewer context switches\n- **Onboarding confidence**: 83% of new hires rated it \"essential\" to ramping up\n\n### Business Impact\n- **Estimated engineering time saved**: 42,000 hours annually\n- **Value of time saved** (at $95/hour loaded cost): $3.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

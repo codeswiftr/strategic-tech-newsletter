@@ -1,0 +1,60 @@
+{
+  "draft": "content/drafts/march-w4-framework-post-quantum-crypto.md",
+  "check_date": "2025-11-10T17:54:50.961960",
+  "total_claims": 5,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 5,
+  "details": [
+    {
+      "claim": "\"\n\nHere's the uncomfortable timeline:\n\n- **2025-2027**: Quantum computers reach 1,000+ logical qubits, capable of breaking 1024-bit RSA in laboratory conditions\n- **2028-2030**: Cloud-accessible quantum computing makes cryptanalysis economically viable for nation-states\n- **2030-2035**: Widespread quantum capability enables routine decryption of previously captured encrypted traffic\n\nThe last point is critical: adversaries are already harvesting encrypted data today with the intention of decrypting it in 10-15 years (\"harvest now, decrypt later\").",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Kyber-768 provides security equivalent to AES-192 with 2,400-byte public keys and 1,088-byte ciphertexts.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Dilithium3 provides security equivalent to AES-192 with 1,952-byte public keys and 3,293-byte signatures.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Larger signatures (7,856 to 49,856 bytes) make it impractical for high-volume applications, but valuable for firmware signing and root certificates where extreme conservatism is required.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "A 256-bit ECDSA signature becomes a 3,293-byte Dilithium signature\u2014a 13x increase.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

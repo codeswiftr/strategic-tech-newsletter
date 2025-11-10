@@ -1,0 +1,45 @@
+Tweet 1/8:
+Case Story: Rust Rewrites Don't Always Win: How Discord Nearly Broke Production
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+In 2020, Discord made headlines when they rewrote their Read States service from Go to Rust, achieving a [staggering 10x performance improvement](https://discord.com/blog/why-discord-is-switching-from-go-to-rust). The engineering blog post became required reading in eve...
+
+==================================================
+
+Tweet 3/8:
+1/ **Latency**: Reduced from ~10ms average to sub-millisecond
+
+==================================================
+
+Tweet 4/8:
+2/ **Memory usage**: Decreased by 40%
+
+==================================================
+
+Tweet 5/8:
+3/ **CPU utilization**: Dropped by 45%
+
+==================================================
+
+Tweet 6/8:
+4/ **GC pauses**: Eliminated entirely
+
+==================================================
+
+Tweet 7/8:
+5/ **Hiring complexity**: Job descriptions now required "Rust experience preferred," narrowing the candidate pool by an estimated 60% compared to Go roles
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

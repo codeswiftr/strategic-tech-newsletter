@@ -1,0 +1,45 @@
+Tweet 1/8:
+The RAFT Model for Multi-Agent AI Systems: A Framework for Production-Ready Autonomous Systems
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+**Framework Breakdown | Week 1, March 2025**...
+
+==================================================
+
+Tweet 3/8:
+1/ **Data staleness**: Agent A decides to approve a transaction while Agent B simultaneously flags the account as fraudulent
+
+==================================================
+
+Tweet 4/8:
+2/ **Cascade failures**: One agent timeout causes 12 downstream agents to fail, each with different error messages
+
+==================================================
+
+Tweet 5/8:
+3/ **Debugging nightmares**: "Why did the system make this decision?" requires 6 engineers, 4 hours, and access to 9 different log streams
+
+==================================================
+
+Tweet 6/8:
+4/ **Brittle recovery**: Systems get stuck in weird states after failures, requiring manual intervention
+
+==================================================
+
+Tweet 7/8:
+5/ All state changes are events appended to an immutable log (e.g., Apache Kafka, EventStoreDB)
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

@@ -1,0 +1,45 @@
+Tweet 1/8:
+The Database Fragmentation Is Here: Why Polyglot Persistence Will Win
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+For the past five years, database vendors have been selling a seductive narrative: the unified data platform that handles everything. One database for OLTP, OLAP, time-series, graph queries, full-text search, and real-time analytics. The promise is simplicity—a single v...
+
+==================================================
+
+Tweet 3/8:
+1/ Multiple operational runbooks, monitoring dashboards, backup strategies
+
+==================================================
+
+Tweet 4/8:
+2/ Engineers need expertise across different database paradigms
+
+==================================================
+
+Tweet 5/8:
+3/ Cross-database transactions require distributed coordination
+
+==================================================
+
+Tweet 6/8:
+4/ CDC pipelines introduce latency (typically 100ms to 5 seconds)
+
+==================================================
+
+Tweet 7/8:
+5/ Schema changes must propagate across all databases
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+

@@ -1,0 +1,40 @@
+{
+  "draft": "content/drafts/march-w4-insight-polyglot-persistence.md",
+  "check_date": "2025-11-10T17:54:51.113130",
+  "total_claims": 3,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 3,
+  "details": [
+    {
+      "claim": "The performance gap isn't 10-20%\u2014it's 5-10x in each dimension.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "\"We moved our product search from PostgreSQL full-text to Elasticsearch and saw conversion rate increase by 12% because results were faster and more relevant,\" notes Dr.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "**Data Volume is Modest**\nBelow 100GB of data and 1,000 queries/second, the performance difference between specialized and unified databases is negligible.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

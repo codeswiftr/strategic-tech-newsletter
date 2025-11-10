@@ -1,0 +1,7 @@
+🚀 New Essay: The Database Fragmentation Is Here: Why Polyglot Persistence Will Win
+
+For the past five years, database vendors have been selling a seductive narrative: the unified data platform that handles everything. One database for OLTP, OLAP, time-series, graph queries, full-text...
+
+Read the full essay: [INSERT NEWSLETTER LINK]
+
+Subscribe for weekly strategic tech insights 👉 [INSERT SUBSCRIBE LINK]

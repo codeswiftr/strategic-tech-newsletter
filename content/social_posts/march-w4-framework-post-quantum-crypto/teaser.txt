@@ -1,0 +1,7 @@
+🚀 New Essay: Post-Quantum Cryptography Roadmap: What Engineering Teams Must Do Before 2030
+
+The cryptographic foundations of modern internet security are on a countdown to obsolescence. Within the next decade, sufficiently powerful quantum computers will break the RSA, ECC, and Diffie-Hellma...
+
+Read the full essay: [INSERT NEWSLETTER LINK]
+
+Subscribe for weekly strategic tech insights 👉 [INSERT SUBSCRIBE LINK]

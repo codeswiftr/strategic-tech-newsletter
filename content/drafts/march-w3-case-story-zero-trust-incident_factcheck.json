@@ -1,0 +1,80 @@
+{
+  "draft": "content/drafts/march-w3-case-story-zero-trust-incident.md",
+  "check_date": "2025-11-10T17:54:50.334229",
+  "total_claims": 7,
+  "verified": 0,
+  "unverified": 0,
+  "failed": 7,
+  "details": [
+    {
+      "claim": "When the system switched from shadow to enforcement mode, [it invalidated 40% of device certificates](https://www.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "The remaining 60% were revoked when the renewal job crashed under load.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Week 6 included 10% of production traffic.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "[Cache hit ratios improved to 94%](https://www.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "If the answer is >10%, you need redundancy.",
+      "type": "percentage",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "The Reality\n\nAt 3:47 AM on a Tuesday in November 2024, the NOC team at a Fortune 500 financial services company watched in horror as their newly deployed Zero Trust architecture locked out 12,000 employees\u2014including the very engineers who could fix it.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    },
+    {
+      "claim": "Post-incident, they implemented hardware security keys with offline policy override capabilities\u2014a lesson learned at $150,000 per hour.",
+      "type": "statistic",
+      "verification": {
+        "verified": false,
+        "confidence": 0.0,
+        "source": null,
+        "note": "Requires manual verification and source citation"
+      }
+    }
+  ]
+}

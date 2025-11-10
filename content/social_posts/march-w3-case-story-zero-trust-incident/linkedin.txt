@@ -1,0 +1,18 @@
+When Zero Trust Broke Production: A $2M Incident That Changed Everything
+
+**Published:** March 2025
+**Reading time:** 5 minutes
+**Author:** Strategic Tech Newsletter
+
+Key insights:
+• **Build System Lockout:** Deployment pipelines couldn't authenticate to artifact repositories. The fix for the outage couldn't be deployed.
+• **Monitoring Blind Spots:** Observability agents lost access to metrics endpoints. They were flying blind during the crisis.
+• **Database Access Revocation:** Connection pooling libraries cached credentials for 4 hours, but Zero Trust revoked them every 30 minutes. When pools refreshed, they hit the overloaded policy engine and failed.
+• [NIST Zero Trust Architecture Guide](https://www.nist.gov/publications/zero-trust-architecture)
+• [Google's BeyondCorp Implementation Lessons](https://www.example.com/beyondcorp-lessons)
+
+Read the full analysis in my newsletter (link in comments)
+
+What's your take? Share your thoughts below. 👇
+
+#TechStrategy #Innovation #Leadership

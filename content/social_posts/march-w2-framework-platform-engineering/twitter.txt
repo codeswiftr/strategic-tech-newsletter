@@ -1,0 +1,45 @@
+Tweet 1/8:
+Framework Breakdown: Platform Engineering vs DevOps: The Organizational Restructuring Playbook
+
+A thread 🧵👇
+
+==================================================
+
+Tweet 2/8:
+Your VP of Engineering just returned from a conference convinced that "platform engineering" will solve your deployment velocity problems. Your DevOps team is confused, defensive, and updating their résumés. Your CFO wants to know if this means more headcount. And you'r...
+
+==================================================
+
+Tweet 3/8:
+1/ Product teams own their entire stack: code, infrastructure, monitoring, on-call
+
+==================================================
+
+Tweet 4/8:
+2/ Central "DevOps team" provides tooling, best practices, and consultation
+
+==================================================
+
+Tweet 5/8:
+3/ Infrastructure as code enables self-service, but teams manage their own configurations
+
+==================================================
+
+Tweet 6/8:
+4/ Site Reliability Engineers (SREs) set standards and handle complex operational challenges
+
+==================================================
+
+Tweet 7/8:
+5/ 5-15 product teams
+
+==================================================
+
+Tweet 8/8:
+Read the full analysis in my newsletter:
+[INSERT LINK]
+
+Like/RT if you found this useful!
+
+==================================================
+
