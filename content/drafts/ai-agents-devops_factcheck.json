@@ -1,0 +1,110 @@
+{
+  "draft": "content/drafts/ai-agents-devops.md",
+  "check_date": "2025-11-10T06:25:47.110098",
+  "total_claims": 10,
+  "verified": 0,
+  "unverified": 10,
+  "failed": 0,
+  "details": [
+    {
+      "claim": "Traditional monitoring systems in the 2000s operated on simple threshold-based alerts: CPU exceeds 80%, send a page.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/en/information-technology/glossary/aiops-artificial-intelligence-operations) would be adopted by 40% of large enterprises by 2023.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "When their recommendation service experienced a memory leak that degraded performance by 40%, the agent traced the issue to a specific microservice version, automatically canary-tested a rollback to the previous version, verified the fix restored normal operation, and only then executed a full rollback\u2014all within six minutes.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/resources/reports/automation-report/) found that organizations using autonomous agents reduced their Mean Time to Resolution (MTTR) by 68% for P2 and P3 incidents.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/compute-optimizer/) integrated with AI agents achieved 35% cost reductions while improving performance.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "95% uptime, compared to their previous manually-managed setup.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "google/workbook/implementing-slos/) showing their agents predict 73% of incidents 15-60 minutes before they would impact users, based on subtle patterns in logging, distributed traces, and system metrics that human operators couldn't detect.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "com/resources/state-of-devops-report) found that 62% of engineering teams struggle with \"automation anxiety\"\u2014the fear that autonomous systems will make catastrophic mistakes.",
+      "type": "percentage",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "Database connections spiked, latency climbed to 8 seconds, and revenue was bleeding at $12,000 per minute.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    },
+    {
+      "claim": "One SaaS company reported that their agent-driven infrastructure cost $180,000 less quarterly while maintaining 99.",
+      "type": "statistic",
+      "verification": {
+        "verified": null,
+        "confidence": 0.5,
+        "source": null,
+        "note": "Unverified - proceed with caution"
+      }
+    }
+  ]
+}
